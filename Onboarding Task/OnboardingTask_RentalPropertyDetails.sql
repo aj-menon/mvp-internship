@@ -20,7 +20,7 @@ LEFT JOIN OwnerProperty op ON
 LEFT JOIN PropertyHomeValue hv ON
 	op.PropertyId = hv.PropertyId 
 WHERE 
-	op.OwnerId = 1426 AND 
+	p.Id IN ('5597','5637','5638')  AND 
 	hv.IsActive =1 AND 
 	hv.HomeValueTypeId = 1  -- HomeValueType = Current ;
 	 
@@ -46,7 +46,7 @@ LEFT JOIN PropertyHomeValue hv ON
 LEFT JOIN TenantProperty tp ON
 	p.id = tp.PropertyId
 WHERE 
-	tp.PropertyID IN ('5597','5637','5638') 
+	p.Id IN ('5597','5637','5638') 
 ORDER BY 
 	TotalRent DESC
 	
@@ -76,11 +76,11 @@ ORDER BY
 -- 5. Display all available jobs
 
 SELECT 
-	j.Id AS JobId, j.JobDescription, s.Status 
+	j.Id AS JobId, j.JobDescription, s.Status
 FROM Job j
-LEFT JOIN JobStatus s ON
+INNER JOIN JobStatus s ON
 	j.JobStatusId = s.Id
-LEFT JOIN JobMedia jm ON 
+INNER JOIN JobMedia jm ON 
 	jm.JobId = j.Id 
 WHERE 
 	jm.IsActive =0
@@ -91,15 +91,15 @@ ORDER BY
 --   for propeties owned by Owner 1426
 
 SELECT 
-	p.Id as PropertyID, p.Name as PropertyName, 
-	CONCAT(pr.FirstName,' ', pr.LastName) as CurrentTenantName,
-	trt.Name PaymentFrequency, tp.PaymentAmount 
+	p.Id AS PropertyID, p.Name AS PropertyName, 
+	CONCAT(pr.FirstName,' ', pr.LastName) AS CurrentTenantName,
+	trt.Name AS PaymentFrequency, tp.PaymentAmount AS RentAmount
 FROM Property p
 LEFT JOIN TenantProperty tp ON
 	p.id = tp.PropertyId
 LEFT JOIN PropertyRentalPayment prp ON
 	tp.PaymentFrequencyId = prp.Id
-LEFT JOIN TargetRentType trt on 
+LEFT JOIN TargetRentType trt ON
 	tp.PaymentFrequencyId = trt.Id
 LEFT JOIN Tenant t ON
 	t.Id = tp.TenantId AND t.IsActive = 1
