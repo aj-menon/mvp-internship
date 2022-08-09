@@ -78,9 +78,9 @@ ORDER BY
 SELECT 
 	j.Id AS JobId, j.JobDescription, s.Status
 FROM Job j
-INNER JOIN JobStatus s ON
+LEFT JOIN JobStatus s ON
 	j.JobStatusId = s.Id
-INNER JOIN JobMedia jm ON 
+LEFT JOIN JobMedia jm ON 
 	jm.JobId = j.Id 
 WHERE 
 	jm.IsActive =0
