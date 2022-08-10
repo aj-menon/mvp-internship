@@ -1,6 +1,6 @@
 
 SELECT p.Id AS PropertyId, p.Name AS PropertyName, CONCAT(pr.FirstName,' ',pr.LastName) AS FullName,
-CONCAT(a.Number,' ',a.Street,', ',a.Suburb) AS PropertyAddress,
+CONCAT(a.Number,' ',a.Street,', ',a.Suburb,', ',a.PostCode,', ',a.Region,', ',c.Name) AS PropertyAddress,
 (CASE 
 	WHEN p.Bedroom >1 and p.Bathroom >1 THEN CONCAT(p.bedroom,' Bedrooms, ',p.Bathroom,' Bathrooms')
 	ELSE CONCAT(p.Bedroom,' Bedroom, ',p.Bathroom,' Bathroom')

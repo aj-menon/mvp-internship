@@ -80,14 +80,15 @@ ORDER BY
 -- 5. Display all available jobs
 
 SELECT 
-	 j.Id, j.JobDescription, s.Status, j.PercentDone
+	 DISTINCT j.Id,j.PropertyId, j.JobDescription, COUNT(j.Id) AS No_Of_Jobs
 FROM Job j
-LEFT JOIN JobStatus s ON
-	j.JobStatusId = s.Id
-WHERE 
-	j.PercentDone = 0 AND S.Status IN ('Open', 'Pending')
-ORDER BY 
-	s.Status
+LEFT JOIN JobMedia jm  ON j.Id = jm.JobId
+WHERE 	
+	jm.IsActive = 1
+GROUP BY
+	j.Id, j.PropertyId,j.JobDescription;
+
+	
 
 --6. Display all property names, tenant first and last name, rental payments per week/fortnight/month  
 --   for propeties owned by Owner 1426
