@@ -28,14 +28,14 @@ ORDER BY
 -- 3. 
 SELECT 
 	p.Id AS PropertyID, p.Name AS PropertyName, hv.Value AS CurrentHomeValue,
-	CAST(tp.StartDate AS date) AS TenancyStartDate, CAST(tp.EndDate AS date) TenancyEndDate, 
+	CAST(tp.StartDate AS date) AS TenancyStartDate, CAST(tp.EndDate AS date) TenancyEndDate,tp.PaymentAmount AS RentAmt,
 	CASE 
 		WHEN tp.PaymentFrequencyId = 1 -- Weekly
 			THEN CONVERT(DECIMAL(10,2),(tp.PaymentAmount * DATEDIFF(Week, tp.StartDate,tp.EndDate)))
 		WHEN tp.PaymentFrequencyId = 2 --Fortnightly 
 			THEN CONVERT(DECIMAL(10,2),(tp.PaymentAmount * DATEDIFF(Week, tp.StartDate,tp.EndDate)/2))
 		WHEN tp.PaymentFrequencyId = 3 --Monthly
-			THEN CONVERT(DECIMAL(10,2),(tp.PaymentAmount * (DATEDIFF(Month, tp.StartDate ,tp.EndDate)+1)))
+			THEN CONVERT(DECIMAL(10,2),(tp.PaymentAmount * CEILING(DATEDIFF(Week, tp.StartDate ,tp.EndDate)/4.35)))
 		ELSE 0 
 	END AS TotalRent
 FROM Property p
