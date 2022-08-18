@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [AustraliaDW]    Script Date: 17/08/2022 12:44:10 ******/
+/****** Object:  Database [AustraliaDW]    Script Date: 18/08/2022 13:25:09 ******/
 CREATE DATABASE [AustraliaDW]
  CONTAINMENT = NONE
  ON  PRIMARY 

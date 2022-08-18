@@ -1,7 +1,7 @@
 USE [AustraliaDW]
 GO
 
-/****** Object:  Table [dbo].[FactProperty]    Script Date: 17/08/2022 12:43:28 ******/
+/****** Object:  Table [dbo].[FactProperty]    Script Date: 18/08/2022 13:37:13 ******/
 SET ANSI_NULLS ON
 GO
 

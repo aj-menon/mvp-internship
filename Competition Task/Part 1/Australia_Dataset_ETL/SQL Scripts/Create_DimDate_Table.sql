@@ -1,7 +1,7 @@
 USE [AustraliaDW]
 GO
 
-/****** Object:  Table [dbo].[DimDate]    Script Date: 17/08/2022 12:43:54 ******/
+/****** Object:  Table [dbo].[DimDate]    Script Date: 18/08/2022 13:26:08 ******/
 SET ANSI_NULLS ON
 GO
 

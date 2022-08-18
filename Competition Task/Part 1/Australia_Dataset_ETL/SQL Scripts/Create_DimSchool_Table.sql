@@ -1,7 +1,7 @@
 USE [AustraliaDW]
 GO
 
-/****** Object:  Table [dbo].[DimSchool]    Script Date: 17/08/2022 12:42:24 ******/
+/****** Object:  Table [dbo].[DimSchool]    Script Date: 18/08/2022 13:35:05 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -14,12 +14,11 @@ CREATE TABLE [dbo].[DimSchool](
 	[SchoolName] [nvarchar](255) NOT NULL,
 	[SchoolAddress] [nvarchar](255) NOT NULL,
 	[Suburb] [nvarchar](255) NOT NULL,
-	[PostCode] [int] NOT NULL,
+	[Postcode] [int] NOT NULL,
 	[SuburbID] [nvarchar](255) NOT NULL,
 	[SchoolPhone] [nvarchar](255) NOT NULL,
 	[SchoolEmail] [nvarchar](255) NOT NULL,
-	[YearSchoolOpen] [int] NOT NULL,
-	[StudentNumber] [float] NOT NULL,
+	[StudentNumber] [int] NULL,
 	[SchoolingLevel] [nvarchar](255) NOT NULL,
 	[SpecialityType] [nvarchar](255) NOT NULL,
 	[SchoolGender] [nvarchar](255) NOT NULL,

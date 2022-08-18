@@ -1,7 +1,7 @@
 USE [AustraliaDW]
 GO
 
-/****** Object:  Table [dbo].[DimSuburb]    Script Date: 17/08/2022 12:42:52 ******/
+/****** Object:  Table [dbo].[DimSuburb]    Script Date: 18/08/2022 13:36:39 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -10,11 +10,11 @@ GO
 
 CREATE TABLE [dbo].[DimSuburb](
 	[DimSuburbKey] [int] IDENTITY(1,1) NOT NULL,
-	[SuburbID] [nvarchar](50) NOT NULL,
+	[SuburbID] [nvarchar](255) NOT NULL,
 	[State] [nvarchar](255) NOT NULL,
 	[Suburb] [nvarchar](255) NOT NULL,
 	[City] [nvarchar](255) NOT NULL,
-	[PostCode] [int] NOT NULL,
+	[Postcode] [int] NOT NULL,
 	[Lat] [float] NOT NULL,
 	[Long] [float] NOT NULL,
  CONSTRAINT [PK_DimSuburb] PRIMARY KEY CLUSTERED 
