@@ -10,5 +10,4 @@
 
 ### Part 2
 
-1. Build PowerBI dashboard, convert the existing data to meaningful information with
-   your insight
+1. Build PowerBI dashboard, convert the existing data to meaningful information
