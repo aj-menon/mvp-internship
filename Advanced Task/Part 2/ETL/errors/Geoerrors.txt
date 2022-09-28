@@ -1,0 +1,18 @@
+2765,Vineyard,,,NSW,,,,,-1071607778,0
+2573,Bargo River,,,NSW,,,,,-1071607778,0
+2747,Caddens,,,NSW,,,,,-1071607778,0
+2560,Cataract Dam,,,NSW,,,,,-1071607778,0
+2145,Constitution Hill,,,NSW,,,,,-1071607778,0
+2069,East Roseville,,,NSW,,,,,-1071607778,0
+2140,Flemington,,,NSW,,,,,-1071607778,0
+2065,Gore Hill,,,NSW,,,,,-1071607778,0
+2747,Jordan Springs,,,NSW,,,,,-1071607778,0
+2163,Leightonfield,,,NSW,,,,,-1071607778,0
+2251,MacMasters Beach,,,NSW,,,,,-1071607778,0
+2060,McMahons Point,,,NSW,,,,,-1071607778,0
+2756,Mulgrav,,,NSW,,,,,-1071607778,0
+2211,One Tree Point,,,NSW,,,,,-1071607778,0
+2566,St Andrews,,,NSW,,,,,-1071607778,0
+2787,The Peaks,,,NSW,,,,,-1071607778,0
+2765,Wheeny Creek,,,NSW,,,,,-1071607778,0
+2787,Yerranderie,,,NSW,,,,,-1071607778,0

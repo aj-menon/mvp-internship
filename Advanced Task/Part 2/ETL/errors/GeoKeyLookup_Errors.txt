@@ -1,0 +1,30 @@
+VIC,,Melbourne,West Brunswick,3055,Flat,1 BR,290,1,-1071607778,0
+VIC,,Melbourne,West Brunswick,3055,Flat,2 BR,365,2,-1071607778,0
+VIC,,Melbourne,West Brunswick,3055,Flat,3 BR,560,3,-1071607778,0
+VIC,,Melbourne,West Brunswick,3055,House,2 BR,463,6,-1071607778,0
+VIC,,Melbourne,West Brunswick,3055,House,3 BR,575,7,-1071607778,0
+VIC,,Melbourne,West Brunswick,3055,House,4 BR,700,8,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,Flat,1 BR,240,1,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,Flat,2 BR,298,2,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,Flat,3 BR,363,3,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,House,2 BR,300,6,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,House,3 BR,330,7,-1071607778,0
+VIC,Victoria,Geelong,Newcombe,3219,House,4 BR,390,8,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,Flat,1 BR,258,1,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,Flat,2 BR,350,2,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,Flat,3 BR,440,3,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,House,2 BR,395,6,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,House,3 BR,450,7,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Eliza,3930,House,4 BR,560,8,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,Flat,1 BR,258,1,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,Flat,2 BR,350,2,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,Flat,3 BR,440,3,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,House,2 BR,395,6,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,House,3 BR,450,7,-1071607778,0
+VIC,Victoria,Mornington Peninsula,Mt Martha,3934,House,4 BR,560,8,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,Flat,1 BR,350,1,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,Flat,2 BR,480,2,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,Flat,3 BR,800,3,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,House,2 BR,650,6,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,House,3 BR,900,7,-1071607778,0
+VIC,Victoria,Melbourne,West St Kilda,3182,House,4 BR,1150,8,-1071607778,0

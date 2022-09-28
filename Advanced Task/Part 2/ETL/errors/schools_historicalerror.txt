@@ -1,0 +1,1234 @@
+QLD,1892,Albany Hills State School,Albany Hills,Primary School,,,,,-1071607683,66
+QLD,0038,Albert State School,Albert,Primary School,,,,,-1071607683,66
+QLD,2017,Aldridge State High School,Aldridge,Secondary School,,,,,-1071607683,66
+QLD,1963,Alexandra Bay State School,Alexandra Bay,Primary School,,,,,-1071607683,66
+QLD,0813,Arcadia Valley State School,Arcadia Valley,Primary School,,,,,-1071607683,66
+QLD,1004,Aspley East State School,Aspley East,Primary School,,,,,-1071607683,66
+QLD,7120,Augusta State School,Augusta,Primary School,,,,,-1071607683,66
+QLD,2078,Aviation High,Aviation High,Secondary School,,,,,-1071607683,66
+QLD,0908,Ayr East State School,Ayr East,Primary School,,,,,-1071607683,66
+QLD,1689,Balaclava State School,Balaclava,Primary School,,,,,-1071607683,66
+QLD,0777,Barkly Highway State School,Barkly Highway,Primary School,,,,,-1071607683,66
+QLD,3056,Barrett Adolescent Centre Special School,Barrett,Special School,,,,,-1071607683,66
+QLD,1798,Bay View State School,Bay View,Primary School,,,,,-1071607683,66
+QLD,1925,Bellevue Park State School,Bellevue Park,Primary School,,,,,-1071607683,66
+QLD,1867,Berrinba East State School,Berrinba East,Primary School,,,,,-1071607683,66
+QLD,1546,Berserker Street State School,Berserker Street,Primary School,,,,,-1071607683,66
+QLD,1397,Binjour Plateau State School,Binjour Plateau,Primary School,,,,,-1071607683,66
+QLD,1915,Birkdale South State School,Birkdale South,Primary School,,,,,-1071607683,66
+QLD,1891,Blackwater North State School,Blackwater North,Primary School,,,,,-1071607683,66
+QLD,1565,Blair State School,Blair,Primary School,,,,,-1071607683,66
+QLD,1173,Bloomfield River State School,Bloomfield River,Primary School,,,,,-1071607683,66
+QLD,1299,Bohlevale State School,Bohlevale,Primary School,,,,,-1071607683,66
+QLD,1542,Booyal Central State School,Booyal Central,Primary School,,,,,-1071607683,66
+QLD,6134,Bounty Boulevard State School,Bounty Boulevard,Primary School,,,,,-1071607683,66
+QLD,1066,Branyan Road State School,Branyan Road,Primary School,,,,,-1071607683,66
+QLD,7573,Brightwater State School,Brightwater,Primary School,,,,,-1071607683,66
+QLD,2104,Brisbane Bayside State College,Brisbane Bayside,Secondary School,,,,,-1071607683,66
+QLD,0207,Brisbane Central State School,Brisbane Central,Primary School,,,,,-1071607683,66
+QLD,0223,Buderim Mountain State School,Buderim Mountain,Primary School,,,,,-1071607683,66
+QLD,0853,Bunker'S Hill State School,Bunker'S Hill,Primary School,,,,,-1071607683,66
+QLD,3003,Burdekin School,Burdekin,Special School,,,,,-1071607683,66
+QLD,2089,Burnett State College,Burnett,Secondary School,,,,,-1071607683,66
+QLD,5553,Burpengary Meadows State School,Burpengary Meadows,Primary School,,,,,-1071607683,66
+QLD,1129,Burra Burri State School,Burra Burri,Primary School,,,,,-1071607683,66
+QLD,1966,Burrowes State School,Burrowes,Primary School,,,,,-1071607683,66
+QLD,0379,Bwgcolman Community School,Bwgcolman,Combined School,,,,,-1071607683,66
+QLD,1047,Bymount East State School,Bymount East,Primary School,,,,,-1071607683,66
+QLD,1903,Caboolture East State School,Caboolture East,Primary School,,,,,-1071607683,66
+QLD,1522,Cairns West State School,Cairns West,Primary School,,,,,-1071607683,66
+QLD,0483,Cameron Downs State School,Cameron Downs,Primary School,,,,,-1071607683,66
+QLD,1967,Caningeraba State School,Caningeraba,Primary School,,,,,-1071607683,66
+QLD,8009,Cape York Aboriginal Australian Academy,Cape York,Primary School,,,,,-1071607683,66
+QLD,3612,Capricornia (Emerald Campus) School Of Distance Education,Capricornia,Combined School,,,,,-1071607683,66
+QLD,2025,Cavendish Road State High School,Cavendish Road,Secondary School,,,,,-1071607683,66
+QLD,1668,Centenary State High School,Centenary,Secondary School,,,,,-1071607683,66
+QLD,2282,Chancellor State College,Chancellor,Combined School,,,,,-1071607683,66
+QLD,1924,Chatswood Hills State School,Chatswood Hills,Primary School,,,,,-1071607683,66
+QLD,3066,Claremont Special School,Claremont,Special School,,,,,-1071607683,66
+QLD,3087,Clifford Park Special School,Clifford Park,Special School,,,,,-1071607683,66
+QLD,2345,Clover Hill State School,Clover Hill,Primary School,,,,,-1071607683,66
+QLD,0173,Comet State School,Comet,Primary School,,,,,-1071607683,66
+QLD,1927,Coolnwynpin State School,Coolnwynpin,Primary School,,,,,-1071607683,66
+QLD,2165,Coolum State High School,Coolum,Secondary School,,,,,-1071607683,66
+QLD,1571,Coolum State School,Coolum,Primary School,,,,,-1071607683,66
+QLD,7122,Coomera Rivers State School,Coomera Rivers,Primary School,,,,,-1071607683,66
+QLD,5730,Coomera Springs State School,Coomera Springs,Primary School,,,,,-1071607683,66
+QLD,2023,Craigslea State High School,Craigslea,Secondary School,,,,,-1071607683,66
+QLD,0060,Craigslea State School,Craigslea,Primary School,,,,,-1071607683,66
+QLD,0762,Crescent Lagoon State School,Crescent Lagoon,Primary School,,,,,-1071607683,66
+QLD,0293,Crow'S Nest State School,Crow'S Nest,Combined School,,,,,-1071607683,66
+QLD,0671,Dalby South State School,Dalby South,Primary School,,,,,-1071607683,66
+QLD,3025,Darling Point Special School,Darling Point,Special School,,,,,-1071607683,66
+QLD,0392,Denison State School,Denison,Primary School,,,,,-1071607683,66
+QLD,0726,Eagle Junction State School,Eagle,Primary School,,,,,-1071607683,66
+QLD,1876,Eagleby South State School,Eagleby South,Primary School,,,,,-1071607683,66
+QLD,5180,Earnshaw State College,Earnshaw,Combined School,,,,,-1071607683,66
+QLD,0034,Eight Mile Plains State School,Eight Mile,Primary School,,,,,-1071607683,66
+QLD,0545,Eimeo Road State School,Eimeo Road,Primary School,,,,,-1071607683,66
+QLD,1904,Emerald North State School,Emerald North,Primary School,,,,,-1071607683,66
+QLD,1751,Fairview Heights State School,Fairview Heights,Primary School,,,,,-1071607683,66
+QLD,1205,Federal State School,Federal,Primary School,,,,,-1071607683,66
+QLD,0036,Fig Tree Pocket State School,Fig Tree,Primary School,,,,,-1071607683,66
+QLD,1883,Fitzgerald State School,Fitzgerald,Primary School,,,,,-1071607683,66
+QLD,2323,Flagstone State Community College,Flagstone,Secondary School,,,,,-1071607683,66
+QLD,0471,Flagstone State School,Flagstone,Primary School,,,,,-1071607683,66
+QLD,0845,Flying Fish Point State School,Flying Fish,Primary School,,,,,-1071607683,66
+QLD,0084,Gabbinbar State School,Gabbinbar,Primary School,,,,,-1071607683,66
+QLD,0044,Gladstone Central State School,Gladstone Central,Primary School,,,,,-1071607683,66
+QLD,0740,Gladstone West State School,Gladstone West,Primary School,,,,,-1071607683,66
+QLD,1242,Glass House Mountains State School,Glass,Primary School,,,,,-1071607683,66
+QLD,1592,Glenala State High School,Glenala,Secondary School,,,,,-1071607683,66
+QLD,2028,Glenmore State High School,Glenmore,Secondary School,,,,,-1071607683,66
+QLD,0574,Glenmore State School,Glenmore,Primary School,,,,,-1071607683,66
+QLD,0770,Glennie Heights State School,Glennie Heights,Primary School,,,,,-1071607683,66
+QLD,0297,Gowrie State School,Gowrie,Primary School,,,,,-1071607683,66
+QLD,1674,Grand Avenue State School,Grand Avenue,Primary School,,,,,-1071607683,66
+QLD,1136,Grovely State School,Grovely,Primary School,,,,,-1071607683,66
+QLD,0049,Gympie Central State School,Gympie Central,Primary School,,,,,-1071607683,66
+QLD,0482,Gympie East State School,Gympie East,Primary School,,,,,-1071607683,66
+QLD,1221,Gympie South State School,Gympie South,Primary School,,,,,-1071607683,66
+QLD,0560,Gympie West State School,Gympie West,Primary School,,,,,-1071607683,66
+QLD,0538,Hambledon State School,Hambledon,Primary School,,,,,-1071607683,66
+QLD,0359,Harris Fields State School,Harris Fields,Primary School,,,,,-1071607683,66
+QLD,1858,Hercules Road State School,Hercules Road,Primary School,,,,,-1071607683,66
+QLD,6135,Highland Reserve State School,Highland Reserve,Primary School,,,,,-1071607683,66
+QLD,1887,Hilder Road State School,Hilder Road,Primary School,,,,,-1071607683,66
+QLD,1986,Hilliard State School,Hilliard,Primary School,,,,,-1071607683,66
+QLD,0241,Homestead State School,Homestead,Primary School,,,,,-1071607683,66
+QLD,0164,Humpybong State School,Humpybong,Primary School,,,,,-1071607683,66
+QLD,0661,Ingleside State School,Ingleside,Primary School,,,,,-1071607683,66
+QLD,1660,Innisfail East State School,Innisfail East,Primary School,,,,,-1071607683,66
+QLD,0059,Ipswich Central State School,Ipswich Central,Primary School,,,,,-1071607683,66
+QLD,0575,Ipswich East State School,Ipswich East,Primary School,,,,,-1071607683,66
+QLD,0061,Ipswich North State School,Ipswich North,Primary School,,,,,-1071607683,66
+QLD,3015,Ipswich West Special School,Ipswich West,Special School,,,,,-1071607683,66
+QLD,0366,Ipswich West State School,Ipswich West,Primary School,,,,,-1071607683,66
+QLD,0108,Ironside State School,Ironside,Primary School,,,,,-1071607683,66
+QLD,1721,Isabella State School,Isabella,Primary School,,,,,-1071607683,66
+QLD,2063,Isis District State High School,Isis,Secondary School,,,,,-1071607683,66
+QLD,0455,Ithaca Creek State School,Ithaca Creek,Primary School,,,,,-1071607683,66
+QLD,2137,James Nash State High School,James Nash,Secondary School,,,,,-1071607683,66
+QLD,0180,Jinibara State School,Jinibara,Primary School,,,,,-1071607683,66
+QLD,0514,Junction Park State School,Junction Park,Primary School,,,,,-1071607683,66
+QLD,1494,Kalamia State School,Kalamia,Primary School,,,,,-1071607683,66
+QLD,5653,Kawana Waters State College,Kawana Waters,Combined School,,,,,-1071607683,66
+QLD,2046,Keebra Park State High School,Keebra Park,Secondary School,,,,,-1071607683,66
+QLD,1143,Kenmore South State School,Kenmore South,Primary School,,,,,-1071607683,66
+QLD,1707,Kia-Ora State School,Kia-Ora,Primary School,,,,,-1071607683,66
+QLD,1937,Kimberley Park State School,Kimberley Park,Primary School,,,,,-1071607683,66
+QLD,0279,Kolan South State School,Kolan South,Primary School,,,,,-1071607683,66
+QLD,1878,Kruger State School,Kruger,Primary School,,,,,-1071607683,66
+QLD,1119,Lochington State School,Lochington,Primary School,,,,,-1071607683,66
+QLD,3001,Logan City Special School,Logan City,Special School,,,,,-1071607683,66
+QLD,0383,Ma Ma Creek State School,Ma Ma,Primary School,,,,,-1071607683,66
+QLD,2161,Mabel Park State High School,Mabel Park,Secondary School,,,,,-1071607683,66
+QLD,0356,Mabel Park State School,Mabel Park,Primary School,,,,,-1071607683,66
+QLD,0071,Mackay Central State School,Mackay Central,Primary School,,,,,-1071607683,66
+QLD,7873,Mackay Northern Beaches State High School,Mackay Northern,Secondary School,,,,,-1071607683,66
+QLD,1214,Maidavale State School,Maidavale,Primary School,,,,,-1071607683,66
+QLD,0708,Marshall Road State School,Marshall Road,Primary School,,,,,-1071607683,66
+QLD,0465,Mary Valley State College,Mary Valley,Combined School,,,,,-1071607683,66
+QLD,0072,Maryborough Central State School,Maryborough Central,Primary School,,,,,-1071607683,66
+QLD,3102,Mater Hospital Special School,Mater,Special School,,,,,-1071607683,66
+QLD,1090,Mayfield State School,Mayfield,Primary School,,,,,-1071607683,66
+QLD,1400,Mcdonnell Creek State School,Mcdonnell Creek,Primary School,,,,,-1071607683,66
+QLD,1733,Meridan State College,Meridan,Combined School,,,,,-1071607683,66
+QLD,2024,Milpera State High School,Milpera,Secondary School,,,,,-1071607683,66
+QLD,0265,Minimbah State School,Minimbah,Primary School,,,,,-1071607683,66
+QLD,1382,Mirriwinni State School,Mirriwinni,Primary School,,,,,-1071607683,66
+QLD,1919,Mistake Creek State School,Mistake Creek,Primary School,,,,,-1071607683,66
+QLD,1739,Moore Park State School,Moore Park,Primary School,,,,,-1071607683,66
+QLD,1908,Moranbah East State School,Moranbah East,Primary School,,,,,-1071607683,66
+QLD,1985,Morayfield East State School,Morayfield East,Primary School,,,,,-1071607683,66
+QLD,1753,Moreton Downs State School,Moreton Downs,Primary School,,,,,-1071607683,66
+QLD,1906,Mount Warren Park State School,Mount Warren,Primary School,,,,,-1071607683,66
+QLD,0159,Mudgeeraba Creek State School,Mudgeeraba Creek,Primary School,,,,,-1071607683,66
+QLD,0076,Murphy'S Creek State School,Murphy'S Creek,Primary School,,,,,-1071607683,66
+QLD,1030,Murray River Upper State School,Murray River,Primary School,,,,,-1071607683,66
+QLD,1177,Murray'S Bridge State School,Murray'S Bridge,Primary School,,,,,-1071607683,66
+QLD,1678,Musgrave Hill State School,Musgrave Hill,Primary School,,,,,-1071607683,66
+QLD,0444,Narangba Valley State High School,Narangba Valley,Secondary School,,,,,-1071607683,66
+QLD,1725,Narangba Valley State School,Narangba Valley,Primary School,,,,,-1071607683,66
+QLD,3140,Narbethong State Special School,Narbethong,Special School,,,,,-1071607683,66
+QLD,0479,Nashville State School,Nashville,Primary School,,,,,-1071607683,66
+QLD,2088,Noosa District State High School,Noosa,Secondary School,,,,,-1071607683,66
+QLD,1741,Norfolk Village State School,Norfolk Village,Primary School,,,,,-1071607683,66
+QLD,1863,Norris Road State School,Norris Road,Primary School,,,,,-1071607683,66
+QLD,0211,Northern Beaches State High School,Northern Beaches,Secondary School,,,,,-1071607683,66
+QLD,1243,Northern Peninsula Area State College,Northern Peninsula,Combined School,,,,,-1071607683,66
+QLD,1957,Northview State School,Northview,Primary School,,,,,-1071607683,66
+QLD,3084,Nursery Road State Special School,Nursery Road,Special School,,,,,-1071607683,66
+QLD,1589,Nyanda State High School,Nyanda,Secondary School,,,,,-1071607683,66
+QLD,0331,Oakleigh State School,Oakleigh,Primary School,,,,,-1071607683,66
+QLD,0620,Oakwood State School,Oakwood,Primary School,,,,,-1071607683,66
+QLD,1964,Old Yarranlea State School,Old Yarranlea,Primary School,,,,,-1071607683,66
+QLD,6136,Ormeau Woods State High School,Ormeau Woods,Secondary School,,,,,-1071607683,66
+QLD,2129,Palm Beach-Currumbin State High School,Palm Beach-Currumbin,Secondary School,,,,,-1071607683,66
+QLD,5700,Park Lake State School,Park Lake,Primary School,,,,,-1071607683,66
+QLD,1467,Parke State School,Parke,Primary School,,,,,-1071607683,66
+QLD,0639,Parramatta State School,Parramatta,Primary School,,,,,-1071607683,66
+QLD,1864,Patricks Road State School,Patricks Road,Primary School,,,,,-1071607683,66
+QLD,0286,Payne Road State School,Payne Road,Primary School,,,,,-1071607683,66
+QLD,0080,Petrie Terrace State School,Petrie Terrace,Primary School,,,,,-1071607683,66
+QLD,3011,Pine Rivers Special School,Pine Rivers,Special School,,,,,-1071607683,66
+QLD,2102,Pine Rivers State High School,Pine Rivers,Secondary School,,,,,-1071607683,66
+QLD,1655,Prospect Creek State School,Prospect Creek,Primary School,,,,,-1071607683,66
+QLD,5685,Queensland Academy For Creative Industries,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5727,Queensland Academy For Health Sciences,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5684,Queensland Academy For Science Mathematics And Technology,Queensland,Secondary School,,,,,-1071607683,66
+QLD,1491,Rainworth State School,Rainworth,Primary School,,,,,-1071607683,66
+QLD,3033,Redland District Special School,Redland,Special School,,,,,-1071607683,66
+QLD,0721,Richlands East State School,Richlands East,Primary School,,,,,-1071607683,66
+QLD,3002,Rosella Park School,Rosella Park,Special School,,,,,-1071607683,66
+QLD,3100,Royal Childrens Hospital Special School,Royal,Special School,,,,,-1071607683,66
+QLD,0472,Runcorn Heights State School,Runcorn Heights,Primary School,,,,,-1071607683,66
+QLD,1754,Sandy Strait State School,Sandy Strait,Primary School,,,,,-1071607683,66
+QLD,0590,Serviceton South State School,Serviceton South,Primary School,,,,,-1071607683,66
+QLD,1131,Seville Road State School,Seville Road,Primary School,,,,,-1071607683,66
+QLD,0692,Somerset Hills State School,Somerset Hills,Primary School,,,,,-1071607683,66
+QLD,1241,Southbrook Central State School,Southbrook Central,Primary School,,,,,-1071607683,66
+QLD,5147,Spinifex State College - Mount Isa Education And Training Precinct,Spinifex,Secondary School,,,,,-1071607683,66
+QLD,7131,Springfield Central State High School,Springfield Central,Secondary School,,,,,-1071607683,66
+QLD,7123,Springfield Central State School,Springfield Central,Primary School,,,,,-1071607683,66
+QLD,1869,Springwood Central State School,Springwood Central,Primary School,,,,,-1071607683,66
+QLD,0358,Springwood Road State School,Springwood Road,Primary School,,,,,-1071607683,66
+QLD,1425,St Bernard State School,St Bernard,Primary School,,,,,-1071607683,66
+QLD,0933,Stonehenge State School,Stonehenge,Primary School,,,,,-1071607683,66
+QLD,1910,Strathpine West State School,Strathpine West,Primary School,,,,,-1071607683,66
+QLD,0622,Sunbury State School,Sunbury,Primary School,,,,,-1071607683,66
+QLD,1595,Swayneville State School,Swayneville,Primary School,,,,,-1071607683,66
+QLD,5726,Tagai State College,Tagai,Combined School,,,,,-1071607683,66
+QLD,0462,Talara Primary College,Talara,Primary School,,,,,-1071607683,66
+QLD,1446,Tanduringie State School,Tanduringie,Primary School,,,,,-1071607683,66
+QLD,1357,Tara Shire State College,Tara Shire,Combined School,,,,,-1071607683,66
+QLD,0106,Tent Hill Lower State School,Tent Hill,Primary School,,,,,-1071607683,66
+QLD,1195,The Hall State School,The Hall,Primary School,,,,,-1071607683,66
+QLD,0287,The Willows State School,The Willows,Primary School,,,,,-1071607683,66
+QLD,2172,Thuringowa State High School,Thuringowa,Secondary School,,,,,-1071607683,66
+QLD,0577,Tin Can Bay State School,Tin Can,Combined School,,,,,-1071607683,66
+QLD,0110,Toowoomba North State School,Toowoomba North,Primary School,,,,,-1071607683,66
+QLD,0113,Townsville Central State School,Townsville Central,Primary School,,,,,-1071607683,66
+QLD,0303,Townsville South State School,Townsville South,Primary School,,,,,-1071607683,66
+QLD,0498,Townsville West State School,Townsville West,Primary School,,,,,-1071607683,66
+QLD,0420,Tresswell State School,Tresswell,Primary School,,,,,-1071607683,66
+QLD,2057,Trinity Bay State High School,Trinity Bay,Secondary School,,,,,-1071607683,66
+QLD,2188,Tullawong State High School,Tullawong,Secondary School,,,,,-1071607683,66
+QLD,1994,Tullawong State School,Tullawong,Primary School,,,,,-1071607683,66
+QLD,1877,Undurba State School,Undurba,Primary School,,,,,-1071607683,66
+QLD,0128,Upper Mount Gravatt State School,Upper Mount,Primary School,,,,,-1071607683,66
+QLD,1755,Urandangi State School,Urandangi,Primary School,,,,,-1071607683,66
+QLD,1536,Urangan Point State School,Urangan Point,Primary School,,,,,-1071607683,66
+QLD,1759,Varsity College,Varsity,Combined School,,,,,-1071607683,66
+QLD,1855,Victoria Park State School,Victoria Park,Primary School,,,,,-1071607683,66
+QLD,1936,Vienna Woods State School,Vienna Woods,Primary School,,,,,-1071607683,66
+QLD,1971,Waraburra State School,Waraburra,Primary School,,,,,-1071607683,66
+QLD,1885,Warrigal Road State School,Warrigal Road,Primary School,,,,,-1071607683,66
+QLD,1159,Wartburg State School,Wartburg,Primary School,,,,,-1071607683,66
+QLD,0116,Warwick Central State School,Warwick Central,Primary School,,,,,-1071607683,66
+QLD,0225,Warwick East State School,Warwick East,Primary School,,,,,-1071607683,66
+QLD,1152,Warwick West State School,Warwick West,Primary School,,,,,-1071607683,66
+QLD,0584,Watson Road State School,Watson Road,Primary School,,,,,-1071607683,66
+QLD,2048,Wavell State High School,Wavell,Secondary School,,,,,-1071607683,66
+QLD,0395,Weir State School,Weir,Primary School,,,,,-1071607683,66
+QLD,5399,Western Cape College,Western Cape,Combined School,,,,,-1071607683,66
+QLD,3014,Western Suburbs State Special School,Western Suburbs,Special School,,,,,-1071607683,66
+QLD,2410,Whites Hill State College,Whites Hill,Combined School,,,,,-1071607683,66
+QLD,1972,William Duncan State School,William Duncan,Primary School,,,,,-1071607683,66
+QLD,2186,William Ross State High School,William Ross,Secondary School,,,,,-1071607683,66
+QLD,2189,Windaroo Valley State High School,Windaroo Valley,Secondary School,,,,,-1071607683,66
+QLD,0416,Wondall Heights State School,Wondall Heights,Primary School,,,,,-1071607683,66
+QLD,1614,Wonga Beach State School,Wonga Beach,Primary School,,,,,-1071607683,66
+QLD,0456,Woodcrest State College,Woodcrest,Combined School,,,,,-1071607683,66
+QLD,7121,Woodlinks State School,Woodlinks,Primary School,,,,,-1071607683,66
+QLD,0647,Woodridge North State School,Woodridge North,Primary School,,,,,-1071607683,66
+QLD,1746,Yarrilee State School,Yarrilee,Primary School,,,,,-1071607683,66
+QLD,1954,Yugumbir State School,Yugumbir,Primary School,,,,,-1071607683,66
+QLD,1892,Albany Hills State School,Albany Hills,Primary School,,,,,-1071607683,66
+QLD,0038,Albert State School,Albert,Primary School,,,,,-1071607683,66
+QLD,2017,Aldridge State High School,Aldridge,Secondary School,,,,,-1071607683,66
+QLD,1963,Alexandra Bay State School,Alexandra Bay,Primary School,,,,,-1071607683,66
+QLD,0813,Arcadia Valley State School,Arcadia Valley,Primary School,,,,,-1071607683,66
+QLD,1004,Aspley East State School,Aspley East,Primary School,,,,,-1071607683,66
+QLD,7120,Augusta State School,Augusta,Primary School,,,,,-1071607683,66
+QLD,2078,Aviation High,Aviation High,Secondary School,,,,,-1071607683,66
+QLD,0908,Ayr East State School,Ayr East,Primary School,,,,,-1071607683,66
+QLD,1689,Balaclava State School,Balaclava,Primary School,,,,,-1071607683,66
+QLD,0777,Barkly Highway State School,Barkly Highway,Primary School,,,,,-1071607683,66
+QLD,3056,Barrett Adolescent Centre Special School,Barrett,Special School,,,,,-1071607683,66
+QLD,1798,Bay View State School,Bay View,Primary School,,,,,-1071607683,66
+QLD,1925,Bellevue Park State School,Bellevue Park,Primary School,,,,,-1071607683,66
+QLD,1867,Berrinba East State School,Berrinba East,Primary School,,,,,-1071607683,66
+QLD,1546,Berserker Street State School,Berserker Street,Primary School,,,,,-1071607683,66
+QLD,1397,Binjour Plateau State School,Binjour Plateau,Primary School,,,,,-1071607683,66
+QLD,1915,Birkdale South State School,Birkdale South,Primary School,,,,,-1071607683,66
+QLD,1891,Blackwater North State School,Blackwater North,Primary School,,,,,-1071607683,66
+QLD,1565,Blair State School,Blair,Primary School,,,,,-1071607683,66
+QLD,1173,Bloomfield River State School,Bloomfield River,Primary School,,,,,-1071607683,66
+QLD,1299,Bohlevale State School,Bohlevale,Primary School,,,,,-1071607683,66
+QLD,1542,Booyal Central State School,Booyal Central,Primary School,,,,,-1071607683,66
+QLD,6134,Bounty Boulevard State School,Bounty Boulevard,Primary School,,,,,-1071607683,66
+QLD,1066,Branyan Road State School,Branyan Road,Primary School,,,,,-1071607683,66
+QLD,7573,Brightwater State School,Brightwater,Primary School,,,,,-1071607683,66
+QLD,2104,Brisbane Bayside State College,Brisbane Bayside,Secondary School,,,,,-1071607683,66
+QLD,0207,Brisbane Central State School,Brisbane Central,Primary School,,,,,-1071607683,66
+QLD,0223,Buderim Mountain State School,Buderim Mountain,Primary School,,,,,-1071607683,66
+QLD,0853,Bunker'S Hill State School,Bunker'S Hill,Primary School,,,,,-1071607683,66
+QLD,3003,Burdekin School,Burdekin,Special School,,,,,-1071607683,66
+QLD,2089,Burnett State College,Burnett,Secondary School,,,,,-1071607683,66
+QLD,5553,Burpengary Meadows State School,Burpengary Meadows,Primary School,,,,,-1071607683,66
+QLD,1129,Burra Burri State School,Burra Burri,Primary School,,,,,-1071607683,66
+QLD,1966,Burrowes State School,Burrowes,Primary School,,,,,-1071607683,66
+QLD,0379,Bwgcolman Community School,Bwgcolman,Combined School,,,,,-1071607683,66
+QLD,1047,Bymount East State School,Bymount East,Primary School,,,,,-1071607683,66
+QLD,1903,Caboolture East State School,Caboolture East,Primary School,,,,,-1071607683,66
+QLD,1522,Cairns West State School,Cairns West,Primary School,,,,,-1071607683,66
+QLD,0483,Cameron Downs State School,Cameron Downs,Primary School,,,,,-1071607683,66
+QLD,1967,Caningeraba State School,Caningeraba,Primary School,,,,,-1071607683,66
+QLD,8009,Cape York Aboriginal Australian Academy,Cape York,Primary School,,,,,-1071607683,66
+QLD,3612,Capricornia (Emerald Campus) School Of Distance Education,Capricornia,Combined School,,,,,-1071607683,66
+QLD,2025,Cavendish Road State High School,Cavendish Road,Secondary School,,,,,-1071607683,66
+QLD,1668,Centenary State High School,Centenary,Secondary School,,,,,-1071607683,66
+QLD,2282,Chancellor State College,Chancellor,Combined School,,,,,-1071607683,66
+QLD,1924,Chatswood Hills State School,Chatswood Hills,Primary School,,,,,-1071607683,66
+QLD,3066,Claremont Special School,Claremont,Special School,,,,,-1071607683,66
+QLD,3087,Clifford Park Special School,Clifford Park,Special School,,,,,-1071607683,66
+QLD,2345,Clover Hill State School,Clover Hill,Primary School,,,,,-1071607683,66
+QLD,0173,Comet State School,Comet,Primary School,,,,,-1071607683,66
+QLD,1927,Coolnwynpin State School,Coolnwynpin,Primary School,,,,,-1071607683,66
+QLD,2165,Coolum State High School,Coolum,Secondary School,,,,,-1071607683,66
+QLD,1571,Coolum State School,Coolum,Primary School,,,,,-1071607683,66
+QLD,7122,Coomera Rivers State School,Coomera Rivers,Primary School,,,,,-1071607683,66
+QLD,5730,Coomera Springs State School,Coomera Springs,Primary School,,,,,-1071607683,66
+QLD,2023,Craigslea State High School,Craigslea,Secondary School,,,,,-1071607683,66
+QLD,0060,Craigslea State School,Craigslea,Primary School,,,,,-1071607683,66
+QLD,0762,Crescent Lagoon State School,Crescent Lagoon,Primary School,,,,,-1071607683,66
+QLD,0293,Crow'S Nest State School,Crow'S Nest,Combined School,,,,,-1071607683,66
+QLD,0671,Dalby South State School,Dalby South,Primary School,,,,,-1071607683,66
+QLD,3025,Darling Point Special School,Darling Point,Special School,,,,,-1071607683,66
+QLD,0392,Denison State School,Denison,Primary School,,,,,-1071607683,66
+QLD,0726,Eagle Junction State School,Eagle,Primary School,,,,,-1071607683,66
+QLD,1876,Eagleby South State School,Eagleby South,Primary School,,,,,-1071607683,66
+QLD,5180,Earnshaw State College,Earnshaw,Combined School,,,,,-1071607683,66
+QLD,0034,Eight Mile Plains State School,Eight Mile,Primary School,,,,,-1071607683,66
+QLD,0545,Eimeo Road State School,Eimeo Road,Primary School,,,,,-1071607683,66
+QLD,1904,Emerald North State School,Emerald North,Primary School,,,,,-1071607683,66
+QLD,1751,Fairview Heights State School,Fairview Heights,Primary School,,,,,-1071607683,66
+QLD,1205,Federal State School,Federal,Primary School,,,,,-1071607683,66
+QLD,0036,Fig Tree Pocket State School,Fig Tree,Primary School,,,,,-1071607683,66
+QLD,1883,Fitzgerald State School,Fitzgerald,Primary School,,,,,-1071607683,66
+QLD,2323,Flagstone State Community College,Flagstone,Secondary School,,,,,-1071607683,66
+QLD,0471,Flagstone State School,Flagstone,Primary School,,,,,-1071607683,66
+QLD,0845,Flying Fish Point State School,Flying Fish,Primary School,,,,,-1071607683,66
+QLD,0084,Gabbinbar State School,Gabbinbar,Primary School,,,,,-1071607683,66
+QLD,0044,Gladstone Central State School,Gladstone Central,Primary School,,,,,-1071607683,66
+QLD,0740,Gladstone West State School,Gladstone West,Primary School,,,,,-1071607683,66
+QLD,1242,Glass House Mountains State School,Glass,Primary School,,,,,-1071607683,66
+QLD,1592,Glenala State High School,Glenala,Secondary School,,,,,-1071607683,66
+QLD,2028,Glenmore State High School,Glenmore,Secondary School,,,,,-1071607683,66
+QLD,0574,Glenmore State School,Glenmore,Primary School,,,,,-1071607683,66
+QLD,0770,Glennie Heights State School,Glennie Heights,Primary School,,,,,-1071607683,66
+QLD,0297,Gowrie State School,Gowrie,Primary School,,,,,-1071607683,66
+QLD,1674,Grand Avenue State School,Grand Avenue,Primary School,,,,,-1071607683,66
+QLD,1136,Grovely State School,Grovely,Primary School,,,,,-1071607683,66
+QLD,0049,Gympie Central State School,Gympie Central,Primary School,,,,,-1071607683,66
+QLD,0482,Gympie East State School,Gympie East,Primary School,,,,,-1071607683,66
+QLD,1221,Gympie South State School,Gympie South,Primary School,,,,,-1071607683,66
+QLD,0560,Gympie West State School,Gympie West,Primary School,,,,,-1071607683,66
+QLD,0538,Hambledon State School,Hambledon,Primary School,,,,,-1071607683,66
+QLD,0359,Harris Fields State School,Harris Fields,Primary School,,,,,-1071607683,66
+QLD,1858,Hercules Road State School,Hercules Road,Primary School,,,,,-1071607683,66
+QLD,6135,Highland Reserve State School,Highland Reserve,Primary School,,,,,-1071607683,66
+QLD,1887,Hilder Road State School,Hilder Road,Primary School,,,,,-1071607683,66
+QLD,1986,Hilliard State School,Hilliard,Primary School,,,,,-1071607683,66
+QLD,0241,Homestead State School,Homestead,Primary School,,,,,-1071607683,66
+QLD,0164,Humpybong State School,Humpybong,Primary School,,,,,-1071607683,66
+QLD,0661,Ingleside State School,Ingleside,Primary School,,,,,-1071607683,66
+QLD,1660,Innisfail East State School,Innisfail East,Primary School,,,,,-1071607683,66
+QLD,0059,Ipswich Central State School,Ipswich Central,Primary School,,,,,-1071607683,66
+QLD,0575,Ipswich East State School,Ipswich East,Primary School,,,,,-1071607683,66
+QLD,0061,Ipswich North State School,Ipswich North,Primary School,,,,,-1071607683,66
+QLD,3015,Ipswich West Special School,Ipswich West,Special School,,,,,-1071607683,66
+QLD,0366,Ipswich West State School,Ipswich West,Primary School,,,,,-1071607683,66
+QLD,0108,Ironside State School,Ironside,Primary School,,,,,-1071607683,66
+QLD,1721,Isabella State School,Isabella,Primary School,,,,,-1071607683,66
+QLD,2063,Isis District State High School,Isis,Secondary School,,,,,-1071607683,66
+QLD,0455,Ithaca Creek State School,Ithaca Creek,Primary School,,,,,-1071607683,66
+QLD,2137,James Nash State High School,James Nash,Secondary School,,,,,-1071607683,66
+QLD,0180,Jinibara State School,Jinibara,Primary School,,,,,-1071607683,66
+QLD,0514,Junction Park State School,Junction Park,Primary School,,,,,-1071607683,66
+QLD,1494,Kalamia State School,Kalamia,Primary School,,,,,-1071607683,66
+QLD,5653,Kawana Waters State College,Kawana Waters,Combined School,,,,,-1071607683,66
+QLD,2046,Keebra Park State High School,Keebra Park,Secondary School,,,,,-1071607683,66
+QLD,1143,Kenmore South State School,Kenmore South,Primary School,,,,,-1071607683,66
+QLD,1707,Kia-Ora State School,Kia-Ora,Primary School,,,,,-1071607683,66
+QLD,1937,Kimberley Park State School,Kimberley Park,Primary School,,,,,-1071607683,66
+QLD,0279,Kolan South State School,Kolan South,Primary School,,,,,-1071607683,66
+QLD,1878,Kruger State School,Kruger,Primary School,,,,,-1071607683,66
+QLD,1119,Lochington State School,Lochington,Primary School,,,,,-1071607683,66
+QLD,3001,Logan City Special School,Logan City,Special School,,,,,-1071607683,66
+QLD,0383,Ma Ma Creek State School,Ma Ma,Primary School,,,,,-1071607683,66
+QLD,2161,Mabel Park State High School,Mabel Park,Secondary School,,,,,-1071607683,66
+QLD,0356,Mabel Park State School,Mabel Park,Primary School,,,,,-1071607683,66
+QLD,0071,Mackay Central State School,Mackay Central,Primary School,,,,,-1071607683,66
+QLD,7873,Mackay Northern Beaches State High School,Mackay Northern,Secondary School,,,,,-1071607683,66
+QLD,1214,Maidavale State School,Maidavale,Primary School,,,,,-1071607683,66
+QLD,0708,Marshall Road State School,Marshall Road,Primary School,,,,,-1071607683,66
+QLD,0465,Mary Valley State College,Mary Valley,Combined School,,,,,-1071607683,66
+QLD,0072,Maryborough Central State School,Maryborough Central,Primary School,,,,,-1071607683,66
+QLD,3102,Mater Hospital Special School,Mater,Special School,,,,,-1071607683,66
+QLD,1090,Mayfield State School,Mayfield,Primary School,,,,,-1071607683,66
+QLD,1400,Mcdonnell Creek State School,Mcdonnell Creek,Primary School,,,,,-1071607683,66
+QLD,1733,Meridan State College,Meridan,Combined School,,,,,-1071607683,66
+QLD,2024,Milpera State High School,Milpera,Secondary School,,,,,-1071607683,66
+QLD,0265,Minimbah State School,Minimbah,Primary School,,,,,-1071607683,66
+QLD,1382,Mirriwinni State School,Mirriwinni,Primary School,,,,,-1071607683,66
+QLD,1919,Mistake Creek State School,Mistake Creek,Primary School,,,,,-1071607683,66
+QLD,1739,Moore Park State School,Moore Park,Primary School,,,,,-1071607683,66
+QLD,1908,Moranbah East State School,Moranbah East,Primary School,,,,,-1071607683,66
+QLD,1985,Morayfield East State School,Morayfield East,Primary School,,,,,-1071607683,66
+QLD,1753,Moreton Downs State School,Moreton Downs,Primary School,,,,,-1071607683,66
+QLD,1906,Mount Warren Park State School,Mount Warren,Primary School,,,,,-1071607683,66
+QLD,0159,Mudgeeraba Creek State School,Mudgeeraba Creek,Primary School,,,,,-1071607683,66
+QLD,0076,Murphy'S Creek State School,Murphy'S Creek,Primary School,,,,,-1071607683,66
+QLD,1030,Murray River Upper State School,Murray River,Primary School,,,,,-1071607683,66
+QLD,1177,Murray'S Bridge State School,Murray'S Bridge,Primary School,,,,,-1071607683,66
+QLD,1678,Musgrave Hill State School,Musgrave Hill,Primary School,,,,,-1071607683,66
+QLD,0444,Narangba Valley State High School,Narangba Valley,Secondary School,,,,,-1071607683,66
+QLD,1725,Narangba Valley State School,Narangba Valley,Primary School,,,,,-1071607683,66
+QLD,3140,Narbethong State Special School,Narbethong,Special School,,,,,-1071607683,66
+QLD,0479,Nashville State School,Nashville,Primary School,,,,,-1071607683,66
+QLD,2088,Noosa District State High School,Noosa,Secondary School,,,,,-1071607683,66
+QLD,1741,Norfolk Village State School,Norfolk Village,Primary School,,,,,-1071607683,66
+QLD,1863,Norris Road State School,Norris Road,Primary School,,,,,-1071607683,66
+QLD,0211,Northern Beaches State High School,Northern Beaches,Secondary School,,,,,-1071607683,66
+QLD,1243,Northern Peninsula Area State College,Northern Peninsula,Combined School,,,,,-1071607683,66
+QLD,1957,Northview State School,Northview,Primary School,,,,,-1071607683,66
+QLD,3084,Nursery Road State Special School,Nursery Road,Special School,,,,,-1071607683,66
+QLD,0331,Oakleigh State School,Oakleigh,Primary School,,,,,-1071607683,66
+QLD,0620,Oakwood State School,Oakwood,Primary School,,,,,-1071607683,66
+QLD,6136,Ormeau Woods State High School,Ormeau Woods,Secondary School,,,,,-1071607683,66
+QLD,2129,Palm Beach-Currumbin State High School,Palm Beach-Currumbin,Secondary School,,,,,-1071607683,66
+QLD,5700,Park Lake State School,Park Lake,Primary School,,,,,-1071607683,66
+QLD,1467,Parke State School,Parke,Primary School,,,,,-1071607683,66
+QLD,0639,Parramatta State School,Parramatta,Primary School,,,,,-1071607683,66
+QLD,1864,Patricks Road State School,Patricks Road,Primary School,,,,,-1071607683,66
+QLD,0286,Payne Road State School,Payne Road,Primary School,,,,,-1071607683,66
+QLD,0080,Petrie Terrace State School,Petrie Terrace,Primary School,,,,,-1071607683,66
+QLD,3011,Pine Rivers Special School,Pine Rivers,Special School,,,,,-1071607683,66
+QLD,2102,Pine Rivers State High School,Pine Rivers,Secondary School,,,,,-1071607683,66
+QLD,1655,Prospect Creek State School,Prospect Creek,Primary School,,,,,-1071607683,66
+QLD,5685,Queensland Academy For Creative Industries,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5727,Queensland Academy For Health Sciences,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5684,Queensland Academy For Science Mathematics And Technology,Queensland,Secondary School,,,,,-1071607683,66
+QLD,1491,Rainworth State School,Rainworth,Primary School,,,,,-1071607683,66
+QLD,3033,Redland District Special School,Redland,Special School,,,,,-1071607683,66
+QLD,0721,Richlands East State School,Richlands East,Primary School,,,,,-1071607683,66
+QLD,3002,Rosella Park School,Rosella Park,Special School,,,,,-1071607683,66
+QLD,3100,Royal Childrens Hospital Special School,Royal,Special School,,,,,-1071607683,66
+QLD,0472,Runcorn Heights State School,Runcorn Heights,Primary School,,,,,-1071607683,66
+QLD,1754,Sandy Strait State School,Sandy Strait,Primary School,,,,,-1071607683,66
+QLD,0590,Serviceton South State School,Serviceton South,Primary School,,,,,-1071607683,66
+QLD,1131,Seville Road State School,Seville Road,Primary School,,,,,-1071607683,66
+QLD,0692,Somerset Hills State School,Somerset Hills,Primary School,,,,,-1071607683,66
+QLD,1241,Southbrook Central State School,Southbrook Central,Primary School,,,,,-1071607683,66
+QLD,5147,Spinifex State College - Mount Isa Education And Training Precinct,Spinifex,Secondary School,,,,,-1071607683,66
+QLD,7131,Springfield Central State High School,Springfield Central,Secondary School,,,,,-1071607683,66
+QLD,7123,Springfield Central State School,Springfield Central,Primary School,,,,,-1071607683,66
+QLD,1869,Springwood Central State School,Springwood Central,Primary School,,,,,-1071607683,66
+QLD,0358,Springwood Road State School,Springwood Road,Primary School,,,,,-1071607683,66
+QLD,1425,St Bernard State School,St Bernard,Primary School,,,,,-1071607683,66
+QLD,0933,Stonehenge State School,Stonehenge,Primary School,,,,,-1071607683,66
+QLD,1910,Strathpine West State School,Strathpine West,Primary School,,,,,-1071607683,66
+QLD,0622,Sunbury State School,Sunbury,Primary School,,,,,-1071607683,66
+QLD,1595,Swayneville State School,Swayneville,Primary School,,,,,-1071607683,66
+QLD,5726,Tagai State College,Tagai,Combined School,,,,,-1071607683,66
+QLD,0462,Talara Primary College,Talara,Primary School,,,,,-1071607683,66
+QLD,1446,Tanduringie State School,Tanduringie,Primary School,,,,,-1071607683,66
+QLD,1357,Tara Shire State College,Tara Shire,Combined School,,,,,-1071607683,66
+QLD,0106,Tent Hill Lower State School,Tent Hill,Primary School,,,,,-1071607683,66
+QLD,1195,The Hall State School,The Hall,Primary School,,,,,-1071607683,66
+QLD,0287,The Willows State School,The Willows,Primary School,,,,,-1071607683,66
+QLD,2172,Thuringowa State High School,Thuringowa,Secondary School,,,,,-1071607683,66
+QLD,0577,Tin Can Bay State School,Tin Can,Combined School,,,,,-1071607683,66
+QLD,0110,Toowoomba North State School,Toowoomba North,Primary School,,,,,-1071607683,66
+QLD,0113,Townsville Central State School,Townsville Central,Primary School,,,,,-1071607683,66
+QLD,0303,Townsville South State School,Townsville South,Primary School,,,,,-1071607683,66
+QLD,0498,Townsville West State School,Townsville West,Primary School,,,,,-1071607683,66
+QLD,0420,Tresswell State School,Tresswell,Primary School,,,,,-1071607683,66
+QLD,2057,Trinity Bay State High School,Trinity Bay,Secondary School,,,,,-1071607683,66
+QLD,2188,Tullawong State High School,Tullawong,Secondary School,,,,,-1071607683,66
+QLD,1994,Tullawong State School,Tullawong,Primary School,,,,,-1071607683,66
+QLD,1877,Undurba State School,Undurba,Primary School,,,,,-1071607683,66
+QLD,0128,Upper Mount Gravatt State School,Upper Mount,Primary School,,,,,-1071607683,66
+QLD,1755,Urandangi State School,Urandangi,Primary School,,,,,-1071607683,66
+QLD,1536,Urangan Point State School,Urangan Point,Primary School,,,,,-1071607683,66
+QLD,1759,Varsity College,Varsity,Combined School,,,,,-1071607683,66
+QLD,1855,Victoria Park State School,Victoria Park,Primary School,,,,,-1071607683,66
+QLD,1936,Vienna Woods State School,Vienna Woods,Primary School,,,,,-1071607683,66
+QLD,1971,Waraburra State School,Waraburra,Primary School,,,,,-1071607683,66
+QLD,1885,Warrigal Road State School,Warrigal Road,Primary School,,,,,-1071607683,66
+QLD,1159,Wartburg State School,Wartburg,Primary School,,,,,-1071607683,66
+QLD,0116,Warwick Central State School,Warwick Central,Primary School,,,,,-1071607683,66
+QLD,0225,Warwick East State School,Warwick East,Primary School,,,,,-1071607683,66
+QLD,1152,Warwick West State School,Warwick West,Primary School,,,,,-1071607683,66
+QLD,0584,Watson Road State School,Watson Road,Primary School,,,,,-1071607683,66
+QLD,2048,Wavell State High School,Wavell,Secondary School,,,,,-1071607683,66
+QLD,0395,Weir State School,Weir,Primary School,,,,,-1071607683,66
+QLD,5399,Western Cape College,Western Cape,Combined School,,,,,-1071607683,66
+QLD,3014,Western Suburbs State Special School,Western Suburbs,Special School,,,,,-1071607683,66
+QLD,2410,Whites Hill State College,Whites Hill,Combined School,,,,,-1071607683,66
+QLD,1972,William Duncan State School,William Duncan,Primary School,,,,,-1071607683,66
+QLD,2186,William Ross State High School,William Ross,Secondary School,,,,,-1071607683,66
+QLD,2189,Windaroo Valley State High School,Windaroo Valley,Secondary School,,,,,-1071607683,66
+QLD,0416,Wondall Heights State School,Wondall Heights,Primary School,,,,,-1071607683,66
+QLD,1614,Wonga Beach State School,Wonga Beach,Primary School,,,,,-1071607683,66
+QLD,0456,Woodcrest State College,Woodcrest,Combined School,,,,,-1071607683,66
+QLD,7121,Woodlinks State School,Woodlinks,Primary School,,,,,-1071607683,66
+QLD,0647,Woodridge North State School,Woodridge North,Primary School,,,,,-1071607683,66
+QLD,1746,Yarrilee State School,Yarrilee,Primary School,,,,,-1071607683,66
+QLD,1954,Yugumbir State School,Yugumbir,Primary School,,,,,-1071607683,66
+QLD,1892,Albany Hills State School,Albany Hills,Primary School,,,,,-1071607683,66
+QLD,0038,Albert State School,Albert,Primary School,,,,,-1071607683,66
+QLD,2017,Aldridge State High School,Aldridge,Secondary School,,,,,-1071607683,66
+QLD,1963,Alexandra Bay State School,Alexandra Bay,Primary School,,,,,-1071607683,66
+QLD,0813,Arcadia Valley State School,Arcadia Valley,Primary School,,,,,-1071607683,66
+QLD,1004,Aspley East State School,Aspley East,Primary School,,,,,-1071607683,66
+QLD,7120,Augusta State School,Augusta,Primary School,,,,,-1071607683,66
+QLD,2078,Aviation High,Aviation High,Secondary School,,,,,-1071607683,66
+QLD,0908,Ayr East State School,Ayr East,Primary School,,,,,-1071607683,66
+QLD,1689,Balaclava State School,Balaclava,Primary School,,,,,-1071607683,66
+QLD,0777,Barkly Highway State School,Barkly Highway,Primary School,,,,,-1071607683,66
+QLD,3056,Barrett Adolescent Centre Special School,Barrett,Special School,,,,,-1071607683,66
+QLD,1798,Bay View State School,Bay View,Primary School,,,,,-1071607683,66
+QLD,1925,Bellevue Park State School,Bellevue Park,Primary School,,,,,-1071607683,66
+QLD,1867,Berrinba East State School,Berrinba East,Primary School,,,,,-1071607683,66
+QLD,1546,Berserker Street State School,Berserker Street,Primary School,,,,,-1071607683,66
+QLD,1397,Binjour Plateau State School,Binjour Plateau,Primary School,,,,,-1071607683,66
+QLD,1915,Birkdale South State School,Birkdale South,Primary School,,,,,-1071607683,66
+QLD,1891,Blackwater North State School,Blackwater North,Primary School,,,,,-1071607683,66
+QLD,1565,Blair State School,Blair,Primary School,,,,,-1071607683,66
+QLD,1173,Bloomfield River State School,Bloomfield River,Primary School,,,,,-1071607683,66
+QLD,1299,Bohlevale State School,Bohlevale,Primary School,,,,,-1071607683,66
+QLD,1542,Booyal Central State School,Booyal Central,Primary School,,,,,-1071607683,66
+QLD,6134,Bounty Boulevard State School,Bounty Boulevard,Primary School,,,,,-1071607683,66
+QLD,1066,Branyan Road State School,Branyan Road,Primary School,,,,,-1071607683,66
+QLD,7573,Brightwater State School,Brightwater,Primary School,,,,,-1071607683,66
+QLD,2104,Brisbane Bayside State College,Brisbane Bayside,Secondary School,,,,,-1071607683,66
+QLD,0207,Brisbane Central State School,Brisbane Central,Primary School,,,,,-1071607683,66
+QLD,0223,Buderim Mountain State School,Buderim Mountain,Primary School,,,,,-1071607683,66
+QLD,0853,Bunker'S Hill State School,Bunker'S Hill,Primary School,,,,,-1071607683,66
+QLD,3003,Burdekin School,Burdekin,Special School,,,,,-1071607683,66
+QLD,2089,Burnett State College,Burnett,Secondary School,,,,,-1071607683,66
+QLD,5553,Burpengary Meadows State School,Burpengary Meadows,Primary School,,,,,-1071607683,66
+QLD,1129,Burra Burri State School,Burra Burri,Primary School,,,,,-1071607683,66
+QLD,1966,Burrowes State School,Burrowes,Primary School,,,,,-1071607683,66
+QLD,0379,Bwgcolman Community School,Bwgcolman,Combined School,,,,,-1071607683,66
+QLD,1047,Bymount East State School,Bymount East,Primary School,,,,,-1071607683,66
+QLD,1903,Caboolture East State School,Caboolture East,Primary School,,,,,-1071607683,66
+QLD,1522,Cairns West State School,Cairns West,Primary School,,,,,-1071607683,66
+QLD,0483,Cameron Downs State School,Cameron Downs,Primary School,,,,,-1071607683,66
+QLD,1967,Caningeraba State School,Caningeraba,Primary School,,,,,-1071607683,66
+QLD,8009,Cape York Aboriginal Australian Academy,Cape York,Primary School,,,,,-1071607683,66
+QLD,3612,Capricornia (Emerald Campus) School Of Distance Education,Capricornia,Combined School,,,,,-1071607683,66
+QLD,2025,Cavendish Road State High School,Cavendish Road,Secondary School,,,,,-1071607683,66
+QLD,1668,Centenary State High School,Centenary,Secondary School,,,,,-1071607683,66
+QLD,2282,Chancellor State College,Chancellor,Combined School,,,,,-1071607683,66
+QLD,1924,Chatswood Hills State School,Chatswood Hills,Primary School,,,,,-1071607683,66
+QLD,3066,Claremont Special School,Claremont,Special School,,,,,-1071607683,66
+QLD,3087,Clifford Park Special School,Clifford Park,Special School,,,,,-1071607683,66
+QLD,2345,Clover Hill State School,Clover Hill,Primary School,,,,,-1071607683,66
+QLD,0173,Comet State School,Comet,Primary School,,,,,-1071607683,66
+QLD,1927,Coolnwynpin State School,Coolnwynpin,Primary School,,,,,-1071607683,66
+QLD,2165,Coolum State High School,Coolum,Secondary School,,,,,-1071607683,66
+QLD,1571,Coolum State School,Coolum,Primary School,,,,,-1071607683,66
+QLD,7122,Coomera Rivers State School,Coomera Rivers,Primary School,,,,,-1071607683,66
+QLD,5730,Coomera Springs State School,Coomera Springs,Primary School,,,,,-1071607683,66
+QLD,2023,Craigslea State High School,Craigslea,Secondary School,,,,,-1071607683,66
+QLD,0060,Craigslea State School,Craigslea,Primary School,,,,,-1071607683,66
+QLD,0762,Crescent Lagoon State School,Crescent Lagoon,Primary School,,,,,-1071607683,66
+QLD,0293,Crow'S Nest State School,Crow'S Nest,Combined School,,,,,-1071607683,66
+QLD,0671,Dalby South State School,Dalby South,Primary School,,,,,-1071607683,66
+QLD,3025,Darling Point Special School,Darling Point,Special School,,,,,-1071607683,66
+QLD,0392,Denison State School,Denison,Primary School,,,,,-1071607683,66
+QLD,0726,Eagle Junction State School,Eagle,Primary School,,,,,-1071607683,66
+QLD,1876,Eagleby South State School,Eagleby South,Primary School,,,,,-1071607683,66
+QLD,5180,Earnshaw State College,Earnshaw,Combined School,,,,,-1071607683,66
+QLD,0034,Eight Mile Plains State School,Eight Mile,Primary School,,,,,-1071607683,66
+QLD,0545,Eimeo Road State School,Eimeo Road,Primary School,,,,,-1071607683,66
+QLD,1904,Emerald North State School,Emerald North,Primary School,,,,,-1071607683,66
+QLD,1751,Fairview Heights State School,Fairview Heights,Primary School,,,,,-1071607683,66
+QLD,1205,Federal State School,Federal,Primary School,,,,,-1071607683,66
+QLD,0036,Fig Tree Pocket State School,Fig Tree,Primary School,,,,,-1071607683,66
+QLD,1883,Fitzgerald State School,Fitzgerald,Primary School,,,,,-1071607683,66
+QLD,2323,Flagstone State Community College,Flagstone,Secondary School,,,,,-1071607683,66
+QLD,0471,Flagstone State School,Flagstone,Primary School,,,,,-1071607683,66
+QLD,0845,Flying Fish Point State School,Flying Fish,Primary School,,,,,-1071607683,66
+QLD,0084,Gabbinbar State School,Gabbinbar,Primary School,,,,,-1071607683,66
+QLD,0044,Gladstone Central State School,Gladstone Central,Primary School,,,,,-1071607683,66
+QLD,0740,Gladstone West State School,Gladstone West,Primary School,,,,,-1071607683,66
+QLD,1242,Glass House Mountains State School,Glass,Primary School,,,,,-1071607683,66
+QLD,1592,Glenala State High School,Glenala,Secondary School,,,,,-1071607683,66
+QLD,2028,Glenmore State High School,Glenmore,Secondary School,,,,,-1071607683,66
+QLD,0574,Glenmore State School,Glenmore,Primary School,,,,,-1071607683,66
+QLD,0770,Glennie Heights State School,Glennie Heights,Primary School,,,,,-1071607683,66
+QLD,0297,Gowrie State School,Gowrie,Primary School,,,,,-1071607683,66
+QLD,1674,Grand Avenue State School,Grand Avenue,Primary School,,,,,-1071607683,66
+QLD,1136,Grovely State School,Grovely,Primary School,,,,,-1071607683,66
+QLD,0049,Gympie Central State School,Gympie Central,Primary School,,,,,-1071607683,66
+QLD,0482,Gympie East State School,Gympie East,Primary School,,,,,-1071607683,66
+QLD,1221,Gympie South State School,Gympie South,Primary School,,,,,-1071607683,66
+QLD,0560,Gympie West State School,Gympie West,Primary School,,,,,-1071607683,66
+QLD,0538,Hambledon State School,Hambledon,Primary School,,,,,-1071607683,66
+QLD,0359,Harris Fields State School,Harris Fields,Primary School,,,,,-1071607683,66
+QLD,1858,Hercules Road State School,Hercules Road,Primary School,,,,,-1071607683,66
+QLD,6135,Highland Reserve State School,Highland Reserve,Primary School,,,,,-1071607683,66
+QLD,1887,Hilder Road State School,Hilder Road,Primary School,,,,,-1071607683,66
+QLD,1986,Hilliard State School,Hilliard,Primary School,,,,,-1071607683,66
+QLD,0241,Homestead State School,Homestead,Primary School,,,,,-1071607683,66
+QLD,0164,Humpybong State School,Humpybong,Primary School,,,,,-1071607683,66
+QLD,0661,Ingleside State School,Ingleside,Primary School,,,,,-1071607683,66
+QLD,1660,Innisfail East State School,Innisfail East,Primary School,,,,,-1071607683,66
+QLD,0059,Ipswich Central State School,Ipswich Central,Primary School,,,,,-1071607683,66
+QLD,0575,Ipswich East State School,Ipswich East,Primary School,,,,,-1071607683,66
+QLD,0061,Ipswich North State School,Ipswich North,Primary School,,,,,-1071607683,66
+QLD,3015,Ipswich West Special School,Ipswich West,Special School,,,,,-1071607683,66
+QLD,0366,Ipswich West State School,Ipswich West,Primary School,,,,,-1071607683,66
+QLD,0108,Ironside State School,Ironside,Primary School,,,,,-1071607683,66
+QLD,1721,Isabella State School,Isabella,Primary School,,,,,-1071607683,66
+QLD,2063,Isis District State High School,Isis,Secondary School,,,,,-1071607683,66
+QLD,0455,Ithaca Creek State School,Ithaca Creek,Primary School,,,,,-1071607683,66
+QLD,2137,James Nash State High School,James Nash,Secondary School,,,,,-1071607683,66
+QLD,0180,Jinibara State School,Jinibara,Primary School,,,,,-1071607683,66
+QLD,0514,Junction Park State School,Junction Park,Primary School,,,,,-1071607683,66
+QLD,1494,Kalamia State School,Kalamia,Primary School,,,,,-1071607683,66
+QLD,5653,Kawana Waters State College,Kawana Waters,Combined School,,,,,-1071607683,66
+QLD,2046,Keebra Park State High School,Keebra Park,Secondary School,,,,,-1071607683,66
+QLD,1143,Kenmore South State School,Kenmore South,Primary School,,,,,-1071607683,66
+QLD,1707,Kia-Ora State School,Kia-Ora,Primary School,,,,,-1071607683,66
+QLD,1937,Kimberley Park State School,Kimberley Park,Primary School,,,,,-1071607683,66
+QLD,0279,Kolan South State School,Kolan South,Primary School,,,,,-1071607683,66
+QLD,1878,Kruger State School,Kruger,Primary School,,,,,-1071607683,66
+QLD,3102,Lady Cilento Children'S Hospital School,Lady Cilento,Special School,,,,,-1071607683,66
+QLD,1119,Lochington State School,Lochington,Primary School,,,,,-1071607683,66
+QLD,3001,Logan City Special School,Logan City,Special School,,,,,-1071607683,66
+QLD,0383,Ma Ma Creek State School,Ma Ma,Primary School,,,,,-1071607683,66
+QLD,2161,Mabel Park State High School,Mabel Park,Secondary School,,,,,-1071607683,66
+QLD,0356,Mabel Park State School,Mabel Park,Primary School,,,,,-1071607683,66
+QLD,0071,Mackay Central State School,Mackay Central,Primary School,,,,,-1071607683,66
+QLD,7873,Mackay Northern Beaches State High School,Mackay Northern,Secondary School,,,,,-1071607683,66
+QLD,1214,Maidavale State School,Maidavale,Primary School,,,,,-1071607683,66
+QLD,0708,Marshall Road State School,Marshall Road,Primary School,,,,,-1071607683,66
+QLD,0465,Mary Valley State College,Mary Valley,Combined School,,,,,-1071607683,66
+QLD,0072,Maryborough Central State School,Maryborough Central,Primary School,,,,,-1071607683,66
+QLD,1090,Mayfield State School,Mayfield,Primary School,,,,,-1071607683,66
+QLD,1400,Mcdonnell Creek State School,Mcdonnell Creek,Primary School,,,,,-1071607683,66
+QLD,1733,Meridan State College,Meridan,Combined School,,,,,-1071607683,66
+QLD,2024,Milpera State High School,Milpera,Secondary School,,,,,-1071607683,66
+QLD,0265,Minimbah State School,Minimbah,Primary School,,,,,-1071607683,66
+QLD,1382,Mirriwinni State School,Mirriwinni,Primary School,,,,,-1071607683,66
+QLD,1919,Mistake Creek State School,Mistake Creek,Primary School,,,,,-1071607683,66
+QLD,1739,Moore Park State School,Moore Park,Primary School,,,,,-1071607683,66
+QLD,1908,Moranbah East State School,Moranbah East,Primary School,,,,,-1071607683,66
+QLD,1985,Morayfield East State School,Morayfield East,Primary School,,,,,-1071607683,66
+QLD,1753,Moreton Downs State School,Moreton Downs,Primary School,,,,,-1071607683,66
+QLD,1906,Mount Warren Park State School,Mount Warren,Primary School,,,,,-1071607683,66
+QLD,0159,Mudgeeraba Creek State School,Mudgeeraba Creek,Primary School,,,,,-1071607683,66
+QLD,0076,Murphy'S Creek State School,Murphy'S Creek,Primary School,,,,,-1071607683,66
+QLD,1030,Murray River Upper State School,Murray River,Primary School,,,,,-1071607683,66
+QLD,1177,Murray'S Bridge State School,Murray'S Bridge,Primary School,,,,,-1071607683,66
+QLD,1678,Musgrave Hill State School,Musgrave Hill,Primary School,,,,,-1071607683,66
+QLD,0444,Narangba Valley State High School,Narangba Valley,Secondary School,,,,,-1071607683,66
+QLD,1725,Narangba Valley State School,Narangba Valley,Primary School,,,,,-1071607683,66
+QLD,3140,Narbethong State Special School,Narbethong,Special School,,,,,-1071607683,66
+QLD,0479,Nashville State School,Nashville,Primary School,,,,,-1071607683,66
+QLD,2088,Noosa District State High School,Noosa,Secondary School,,,,,-1071607683,66
+QLD,1741,Norfolk Village State School,Norfolk Village,Primary School,,,,,-1071607683,66
+QLD,1863,Norris Road State School,Norris Road,Primary School,,,,,-1071607683,66
+QLD,0211,Northern Beaches State High School,Northern Beaches,Secondary School,,,,,-1071607683,66
+QLD,1243,Northern Peninsula Area State College,Northern Peninsula,Combined School,,,,,-1071607683,66
+QLD,1957,Northview State School,Northview,Primary School,,,,,-1071607683,66
+QLD,3084,Nursery Road State Special School,Nursery Road,Special School,,,,,-1071607683,66
+QLD,0331,Oakleigh State School,Oakleigh,Primary School,,,,,-1071607683,66
+QLD,0620,Oakwood State School,Oakwood,Primary School,,,,,-1071607683,66
+QLD,6136,Ormeau Woods State High School,Ormeau Woods,Secondary School,,,,,-1071607683,66
+QLD,2129,Palm Beach-Currumbin State High School,Palm Beach-Currumbin,Secondary School,,,,,-1071607683,66
+QLD,5700,Park Lake State School,Park Lake,Primary School,,,,,-1071607683,66
+QLD,1467,Parke State School,Parke,Primary School,,,,,-1071607683,66
+QLD,0639,Parramatta State School,Parramatta,Primary School,,,,,-1071607683,66
+QLD,1864,Patricks Road State School,Patricks Road,Primary School,,,,,-1071607683,66
+QLD,0286,Payne Road State School,Payne Road,Primary School,,,,,-1071607683,66
+QLD,0080,Petrie Terrace State School,Petrie Terrace,Primary School,,,,,-1071607683,66
+QLD,3011,Pine Rivers Special School,Pine Rivers,Special School,,,,,-1071607683,66
+QLD,2102,Pine Rivers State High School,Pine Rivers,Secondary School,,,,,-1071607683,66
+QLD,1655,Prospect Creek State School,Prospect Creek,Primary School,,,,,-1071607683,66
+QLD,5685,Queensland Academy For Creative Industries,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5727,Queensland Academy For Health Sciences,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5684,Queensland Academy For Science Mathematics And Technology,Queensland,Secondary School,,,,,-1071607683,66
+QLD,1491,Rainworth State School,Rainworth,Primary School,,,,,-1071607683,66
+QLD,3033,Redland District Special School,Redland,Special School,,,,,-1071607683,66
+QLD,0721,Richlands East State School,Richlands East,Primary School,,,,,-1071607683,66
+QLD,3002,Rosella Park School,Rosella Park,Special School,,,,,-1071607683,66
+QLD,0472,Runcorn Heights State School,Runcorn Heights,Primary School,,,,,-1071607683,66
+QLD,1754,Sandy Strait State School,Sandy Strait,Primary School,,,,,-1071607683,66
+QLD,0590,Serviceton South State School,Serviceton South,Primary School,,,,,-1071607683,66
+QLD,1131,Seville Road State School,Seville Road,Primary School,,,,,-1071607683,66
+QLD,0692,Somerset Hills State School,Somerset Hills,Primary School,,,,,-1071607683,66
+QLD,1241,Southbrook Central State School,Southbrook Central,Primary School,,,,,-1071607683,66
+QLD,5147,Spinifex State College - Mount Isa Education And Training Precinct,Spinifex,Secondary School,,,,,-1071607683,66
+QLD,7131,Springfield Central State High School,Springfield Central,Secondary School,,,,,-1071607683,66
+QLD,7123,Springfield Central State School,Springfield Central,Primary School,,,,,-1071607683,66
+QLD,1869,Springwood Central State School,Springwood Central,Primary School,,,,,-1071607683,66
+QLD,0358,Springwood Road State School,Springwood Road,Primary School,,,,,-1071607683,66
+QLD,1425,St Bernard State School,St Bernard,Primary School,,,,,-1071607683,66
+QLD,0933,Stonehenge State School,Stonehenge,Primary School,,,,,-1071607683,66
+QLD,1910,Strathpine West State School,Strathpine West,Primary School,,,,,-1071607683,66
+QLD,0622,Sunbury State School,Sunbury,Primary School,,,,,-1071607683,66
+QLD,1595,Swayneville State School,Swayneville,Primary School,,,,,-1071607683,66
+QLD,5726,Tagai State College,Tagai,Combined School,,,,,-1071607683,66
+QLD,0462,Talara Primary College,Talara,Primary School,,,,,-1071607683,66
+QLD,1446,Tanduringie State School,Tanduringie,Primary School,,,,,-1071607683,66
+QLD,1357,Tara Shire State College,Tara Shire,Combined School,,,,,-1071607683,66
+QLD,0106,Tent Hill Lower State School,Tent Hill,Primary School,,,,,-1071607683,66
+QLD,1195,The Hall State School,The Hall,Primary School,,,,,-1071607683,66
+QLD,0287,The Willows State School,The Willows,Primary School,,,,,-1071607683,66
+QLD,2172,Thuringowa State High School,Thuringowa,Secondary School,,,,,-1071607683,66
+QLD,0577,Tin Can Bay State School,Tin Can,Combined School,,,,,-1071607683,66
+QLD,0110,Toowoomba North State School,Toowoomba North,Primary School,,,,,-1071607683,66
+QLD,0113,Townsville Central State School,Townsville Central,Primary School,,,,,-1071607683,66
+QLD,0303,Townsville South State School,Townsville South,Primary School,,,,,-1071607683,66
+QLD,0498,Townsville West State School,Townsville West,Primary School,,,,,-1071607683,66
+QLD,0420,Tresswell State School,Tresswell,Primary School,,,,,-1071607683,66
+QLD,2057,Trinity Bay State High School,Trinity Bay,Secondary School,,,,,-1071607683,66
+QLD,2159,Tropical North Learning Academy - Smithfield State High School,Tropical North,Secondary School,,,,,-1071607683,66
+QLD,1893,Tropical North Learning Academy - Trinity Beach State School,Tropical North,Primary School,,,,,-1071607683,66
+QLD,2188,Tullawong State High School,Tullawong,Secondary School,,,,,-1071607683,66
+QLD,1994,Tullawong State School,Tullawong,Primary School,,,,,-1071607683,66
+QLD,1877,Undurba State School,Undurba,Primary School,,,,,-1071607683,66
+QLD,0128,Upper Mount Gravatt State School,Upper Mount,Primary School,,,,,-1071607683,66
+QLD,1755,Urandangi State School,Urandangi,Primary School,,,,,-1071607683,66
+QLD,1536,Urangan Point State School,Urangan Point,Primary School,,,,,-1071607683,66
+QLD,1759,Varsity College,Varsity,Combined School,,,,,-1071607683,66
+QLD,1855,Victoria Park State School,Victoria Park,Primary School,,,,,-1071607683,66
+QLD,1936,Vienna Woods State School,Vienna Woods,Primary School,,,,,-1071607683,66
+QLD,1971,Waraburra State School,Waraburra,Primary School,,,,,-1071607683,66
+QLD,1885,Warrigal Road State School,Warrigal Road,Primary School,,,,,-1071607683,66
+QLD,1159,Wartburg State School,Wartburg,Primary School,,,,,-1071607683,66
+QLD,0116,Warwick Central State School,Warwick Central,Primary School,,,,,-1071607683,66
+QLD,0225,Warwick East State School,Warwick East,Primary School,,,,,-1071607683,66
+QLD,1152,Warwick West State School,Warwick West,Primary School,,,,,-1071607683,66
+QLD,0584,Watson Road State School,Watson Road,Primary School,,,,,-1071607683,66
+QLD,2048,Wavell State High School,Wavell,Secondary School,,,,,-1071607683,66
+QLD,0395,Weir State School,Weir,Primary School,,,,,-1071607683,66
+QLD,5399,Western Cape College,Western Cape,Combined School,,,,,-1071607683,66
+QLD,3014,Western Suburbs State Special School,Western Suburbs,Special School,,,,,-1071607683,66
+QLD,2410,Whites Hill State College,Whites Hill,Combined School,,,,,-1071607683,66
+QLD,1972,William Duncan State School,William Duncan,Primary School,,,,,-1071607683,66
+QLD,2186,William Ross State High School,William Ross,Secondary School,,,,,-1071607683,66
+QLD,2189,Windaroo Valley State High School,Windaroo Valley,Secondary School,,,,,-1071607683,66
+QLD,0416,Wondall Heights State School,Wondall Heights,Primary School,,,,,-1071607683,66
+QLD,1614,Wonga Beach State School,Wonga Beach,Primary School,,,,,-1071607683,66
+QLD,0456,Woodcrest State College,Woodcrest,Combined School,,,,,-1071607683,66
+QLD,7121,Woodlinks State School,Woodlinks,Primary School,,,,,-1071607683,66
+QLD,0647,Woodridge North State School,Woodridge North,Primary School,,,,,-1071607683,66
+QLD,1746,Yarrilee State School,Yarrilee,Primary School,,,,,-1071607683,66
+QLD,1954,Yugumbir State School,Yugumbir,Primary School,,,,,-1071607683,66
+QLD,1892,Albany Hills State School,Albany Hills,Primary School,,,,,-1071607683,66
+QLD,0038,Albert State School,Albert,Primary School,,,,,-1071607683,66
+QLD,2017,Aldridge State High School,Aldridge,Secondary School,,,,,-1071607683,66
+QLD,1963,Alexandra Bay State School,Alexandra Bay,Primary School,,,,,-1071607683,66
+QLD,0813,Arcadia Valley State School,Arcadia Valley,Primary School,,,,,-1071607683,66
+QLD,1004,Aspley East State School,Aspley East,Primary School,,,,,-1071607683,66
+QLD,7120,Augusta State School,Augusta,Primary School,,,,,-1071607683,66
+QLD,2078,Aviation High,Aviation High,Secondary School,,,,,-1071607683,66
+QLD,0908,Ayr East State School,Ayr East,Primary School,,,,,-1071607683,66
+QLD,1689,Balaclava State School,Balaclava,Primary School,,,,,-1071607683,66
+QLD,0777,Barkly Highway State School,Barkly Highway,Primary School,,,,,-1071607683,66
+QLD,3056,Barrett Adolescent Centre Special School,Barrett,Special School,,,,,-1071607683,66
+QLD,1798,Bay View State School,Bay View,Primary School,,,,,-1071607683,66
+QLD,1925,Bellevue Park State School,Bellevue Park,Primary School,,,,,-1071607683,66
+QLD,1867,Berrinba East State School,Berrinba East,Primary School,,,,,-1071607683,66
+QLD,1546,Berserker Street State School,Berserker Street,Primary School,,,,,-1071607683,66
+QLD,1397,Binjour Plateau State School,Binjour Plateau,Primary School,,,,,-1071607683,66
+QLD,1915,Birkdale South State School,Birkdale South,Primary School,,,,,-1071607683,66
+QLD,1891,Blackwater North State School,Blackwater North,Primary School,,,,,-1071607683,66
+QLD,1565,Blair State School,Blair,Primary School,,,,,-1071607683,66
+QLD,1173,Bloomfield River State School,Bloomfield River,Primary School,,,,,-1071607683,66
+QLD,1299,Bohlevale State School,Bohlevale,Primary School,,,,,-1071607683,66
+QLD,1542,Booyal Central State School,Booyal Central,Primary School,,,,,-1071607683,66
+QLD,6134,Bounty Boulevard State School,Bounty Boulevard,Primary School,,,,,-1071607683,66
+QLD,1066,Branyan Road State School,Branyan Road,Primary School,,,,,-1071607683,66
+QLD,7573,Brightwater State School,Brightwater,Primary School,,,,,-1071607683,66
+QLD,2104,Brisbane Bayside State College,Brisbane Bayside,Secondary School,,,,,-1071607683,66
+QLD,0207,Brisbane Central State School,Brisbane Central,Primary School,,,,,-1071607683,66
+QLD,0223,Buderim Mountain State School,Buderim Mountain,Primary School,,,,,-1071607683,66
+QLD,0853,Bunker'S Hill State School,Bunker'S Hill,Primary School,,,,,-1071607683,66
+QLD,3003,Burdekin School,Burdekin,Special School,,,,,-1071607683,66
+QLD,2089,Burnett State College,Burnett,Secondary School,,,,,-1071607683,66
+QLD,5553,Burpengary Meadows State School,Burpengary Meadows,Primary School,,,,,-1071607683,66
+QLD,1129,Burra Burri State School,Burra Burri,Primary School,,,,,-1071607683,66
+QLD,1966,Burrowes State School,Burrowes,Primary School,,,,,-1071607683,66
+QLD,0379,Bwgcolman Community School,Bwgcolman,Combined School,,,,,-1071607683,66
+QLD,1047,Bymount East State School,Bymount East,Primary School,,,,,-1071607683,66
+QLD,1903,Caboolture East State School,Caboolture East,Primary School,,,,,-1071607683,66
+QLD,1522,Cairns West State School,Cairns West,Primary School,,,,,-1071607683,66
+QLD,0483,Cameron Downs State School,Cameron Downs,Primary School,,,,,-1071607683,66
+QLD,1967,Caningeraba State School,Caningeraba,Primary School,,,,,-1071607683,66
+QLD,8009,Cape York Aboriginal Australian Academy,Cape York,Primary School,,,,,-1071607683,66
+QLD,3612,Capricornia (Emerald Campus) School Of Distance Education,Capricornia,Combined School,,,,,-1071607683,66
+QLD,2025,Cavendish Road State High School,Cavendish Road,Secondary School,,,,,-1071607683,66
+QLD,1668,Centenary State High School,Centenary,Secondary School,,,,,-1071607683,66
+QLD,2282,Chancellor State College,Chancellor,Combined School,,,,,-1071607683,66
+QLD,1924,Chatswood Hills State School,Chatswood Hills,Primary School,,,,,-1071607683,66
+QLD,3066,Claremont Special School,Claremont,Special School,,,,,-1071607683,66
+QLD,3087,Clifford Park Special School,Clifford Park,Special School,,,,,-1071607683,66
+QLD,2345,Clover Hill State School,Clover Hill,Primary School,,,,,-1071607683,66
+QLD,0173,Comet State School,Comet,Primary School,,,,,-1071607683,66
+QLD,1927,Coolnwynpin State School,Coolnwynpin,Primary School,,,,,-1071607683,66
+QLD,2165,Coolum State High School,Coolum,Secondary School,,,,,-1071607683,66
+QLD,1571,Coolum State School,Coolum,Primary School,,,,,-1071607683,66
+QLD,7122,Coomera Rivers State School,Coomera Rivers,Primary School,,,,,-1071607683,66
+QLD,5730,Coomera Springs State School,Coomera Springs,Primary School,,,,,-1071607683,66
+QLD,2023,Craigslea State High School,Craigslea,Secondary School,,,,,-1071607683,66
+QLD,0060,Craigslea State School,Craigslea,Primary School,,,,,-1071607683,66
+QLD,0762,Crescent Lagoon State School,Crescent Lagoon,Primary School,,,,,-1071607683,66
+QLD,0293,Crow'S Nest State School,Crow'S Nest,Combined School,,,,,-1071607683,66
+QLD,0671,Dalby South State School,Dalby South,Primary School,,,,,-1071607683,66
+QLD,3025,Darling Point Special School,Darling Point,Special School,,,,,-1071607683,66
+QLD,0392,Denison State School,Denison,Primary School,,,,,-1071607683,66
+QLD,0726,Eagle Junction State School,Eagle,Primary School,,,,,-1071607683,66
+QLD,1876,Eagleby South State School,Eagleby South,Primary School,,,,,-1071607683,66
+QLD,5180,Earnshaw State College,Earnshaw,Combined School,,,,,-1071607683,66
+QLD,0034,Eight Mile Plains State School,Eight Mile,Primary School,,,,,-1071607683,66
+QLD,0545,Eimeo Road State School,Eimeo Road,Primary School,,,,,-1071607683,66
+QLD,1904,Emerald North State School,Emerald North,Primary School,,,,,-1071607683,66
+QLD,1751,Fairview Heights State School,Fairview Heights,Primary School,,,,,-1071607683,66
+QLD,1205,Federal State School,Federal,Primary School,,,,,-1071607683,66
+QLD,0036,Fig Tree Pocket State School,Fig Tree,Primary School,,,,,-1071607683,66
+QLD,1883,Fitzgerald State School,Fitzgerald,Primary School,,,,,-1071607683,66
+QLD,2323,Flagstone State Community College,Flagstone,Secondary School,,,,,-1071607683,66
+QLD,0471,Flagstone State School,Flagstone,Primary School,,,,,-1071607683,66
+QLD,0845,Flying Fish Point State School,Flying Fish,Primary School,,,,,-1071607683,66
+QLD,0084,Gabbinbar State School,Gabbinbar,Primary School,,,,,-1071607683,66
+QLD,0044,Gladstone Central State School,Gladstone Central,Primary School,,,,,-1071607683,66
+QLD,0740,Gladstone West State School,Gladstone West,Primary School,,,,,-1071607683,66
+QLD,1242,Glass House Mountains State School,Glass,Primary School,,,,,-1071607683,66
+QLD,1592,Glenala State High School,Glenala,Secondary School,,,,,-1071607683,66
+QLD,2028,Glenmore State High School,Glenmore,Secondary School,,,,,-1071607683,66
+QLD,0574,Glenmore State School,Glenmore,Primary School,,,,,-1071607683,66
+QLD,0770,Glennie Heights State School,Glennie Heights,Primary School,,,,,-1071607683,66
+QLD,0297,Gowrie State School,Gowrie,Primary School,,,,,-1071607683,66
+QLD,1674,Grand Avenue State School,Grand Avenue,Primary School,,,,,-1071607683,66
+QLD,1136,Grovely State School,Grovely,Primary School,,,,,-1071607683,66
+QLD,0049,Gympie Central State School,Gympie Central,Primary School,,,,,-1071607683,66
+QLD,0482,Gympie East State School,Gympie East,Primary School,,,,,-1071607683,66
+QLD,1221,Gympie South State School,Gympie South,Primary School,,,,,-1071607683,66
+QLD,0560,Gympie West State School,Gympie West,Primary School,,,,,-1071607683,66
+QLD,0538,Hambledon State School,Hambledon,Primary School,,,,,-1071607683,66
+QLD,0359,Harris Fields State School,Harris Fields,Primary School,,,,,-1071607683,66
+QLD,1858,Hercules Road State School,Hercules Road,Primary School,,,,,-1071607683,66
+QLD,6135,Highland Reserve State School,Highland Reserve,Primary School,,,,,-1071607683,66
+QLD,1887,Hilder Road State School,Hilder Road,Primary School,,,,,-1071607683,66
+QLD,1986,Hilliard State School,Hilliard,Primary School,,,,,-1071607683,66
+QLD,0241,Homestead State School,Homestead,Primary School,,,,,-1071607683,66
+QLD,0164,Humpybong State School,Humpybong,Primary School,,,,,-1071607683,66
+QLD,0661,Ingleside State School,Ingleside,Primary School,,,,,-1071607683,66
+QLD,1660,Innisfail East State School,Innisfail East,Primary School,,,,,-1071607683,66
+QLD,0059,Ipswich Central State School,Ipswich Central,Primary School,,,,,-1071607683,66
+QLD,0575,Ipswich East State School,Ipswich East,Primary School,,,,,-1071607683,66
+QLD,0061,Ipswich North State School,Ipswich North,Primary School,,,,,-1071607683,66
+QLD,3015,Ipswich West Special School,Ipswich West,Special School,,,,,-1071607683,66
+QLD,0366,Ipswich West State School,Ipswich West,Primary School,,,,,-1071607683,66
+QLD,0108,Ironside State School,Ironside,Primary School,,,,,-1071607683,66
+QLD,1721,Isabella State School,Isabella,Primary School,,,,,-1071607683,66
+QLD,2063,Isis District State High School,Isis,Secondary School,,,,,-1071607683,66
+QLD,0455,Ithaca Creek State School,Ithaca Creek,Primary School,,,,,-1071607683,66
+QLD,2137,James Nash State High School,James Nash,Secondary School,,,,,-1071607683,66
+QLD,0180,Jinibara State School,Jinibara,Primary School,,,,,-1071607683,66
+QLD,0514,Junction Park State School,Junction Park,Primary School,,,,,-1071607683,66
+QLD,1494,Kalamia State School,Kalamia,Primary School,,,,,-1071607683,66
+QLD,5653,Kawana Waters State College,Kawana Waters,Combined School,,,,,-1071607683,66
+QLD,2046,Keebra Park State High School,Keebra Park,Secondary School,,,,,-1071607683,66
+QLD,1143,Kenmore South State School,Kenmore South,Primary School,,,,,-1071607683,66
+QLD,1707,Kia-Ora State School,Kia-Ora,Primary School,,,,,-1071607683,66
+QLD,1937,Kimberley Park State School,Kimberley Park,Primary School,,,,,-1071607683,66
+QLD,0279,Kolan South State School,Kolan South,Primary School,,,,,-1071607683,66
+QLD,1878,Kruger State School,Kruger,Primary School,,,,,-1071607683,66
+QLD,3102,Lady Cilento Children'S Hospital School,Lady Cilento,Special School,,,,,-1071607683,66
+QLD,1119,Lochington State School,Lochington,Primary School,,,,,-1071607683,66
+QLD,3001,Logan City Special School,Logan City,Special School,,,,,-1071607683,66
+QLD,0383,Ma Ma Creek State School,Ma Ma,Primary School,,,,,-1071607683,66
+QLD,2161,Mabel Park State High School,Mabel Park,Secondary School,,,,,-1071607683,66
+QLD,0356,Mabel Park State School,Mabel Park,Primary School,,,,,-1071607683,66
+QLD,0071,Mackay Central State School,Mackay Central,Primary School,,,,,-1071607683,66
+QLD,7873,Mackay Northern Beaches State High School,Mackay Northern,Secondary School,,,,,-1071607683,66
+QLD,1214,Maidavale State School,Maidavale,Primary School,,,,,-1071607683,66
+QLD,0708,Marshall Road State School,Marshall Road,Primary School,,,,,-1071607683,66
+QLD,0465,Mary Valley State College,Mary Valley,Combined School,,,,,-1071607683,66
+QLD,0072,Maryborough Central State School,Maryborough Central,Primary School,,,,,-1071607683,66
+QLD,1090,Mayfield State School,Mayfield,Primary School,,,,,-1071607683,66
+QLD,1400,Mcdonnell Creek State School,Mcdonnell Creek,Primary School,,,,,-1071607683,66
+QLD,1733,Meridan State College,Meridan,Combined School,,,,,-1071607683,66
+QLD,2024,Milpera State High School,Milpera,Secondary School,,,,,-1071607683,66
+QLD,0265,Minimbah State School,Minimbah,Primary School,,,,,-1071607683,66
+QLD,1382,Mirriwinni State School,Mirriwinni,Primary School,,,,,-1071607683,66
+QLD,1919,Mistake Creek State School,Mistake Creek,Primary School,,,,,-1071607683,66
+QLD,1739,Moore Park State School,Moore Park,Primary School,,,,,-1071607683,66
+QLD,1908,Moranbah East State School,Moranbah East,Primary School,,,,,-1071607683,66
+QLD,1985,Morayfield East State School,Morayfield East,Primary School,,,,,-1071607683,66
+QLD,1753,Moreton Downs State School,Moreton Downs,Primary School,,,,,-1071607683,66
+QLD,1906,Mount Warren Park State School,Mount Warren,Primary School,,,,,-1071607683,66
+QLD,0159,Mudgeeraba Creek State School,Mudgeeraba Creek,Primary School,,,,,-1071607683,66
+QLD,0076,Murphy'S Creek State School,Murphy'S Creek,Primary School,,,,,-1071607683,66
+QLD,1030,Murray River Upper State School,Murray River,Primary School,,,,,-1071607683,66
+QLD,1177,Murray'S Bridge State School,Murray'S Bridge,Primary School,,,,,-1071607683,66
+QLD,1678,Musgrave Hill State School,Musgrave Hill,Primary School,,,,,-1071607683,66
+QLD,0444,Narangba Valley State High School,Narangba Valley,Secondary School,,,,,-1071607683,66
+QLD,1725,Narangba Valley State School,Narangba Valley,Primary School,,,,,-1071607683,66
+QLD,3140,Narbethong State Special School,Narbethong,Special School,,,,,-1071607683,66
+QLD,0479,Nashville State School,Nashville,Primary School,,,,,-1071607683,66
+QLD,2088,Noosa District State High School,Noosa,Secondary School,,,,,-1071607683,66
+QLD,1741,Norfolk Village State School,Norfolk Village,Primary School,,,,,-1071607683,66
+QLD,1863,Norris Road State School,Norris Road,Primary School,,,,,-1071607683,66
+QLD,0211,Northern Beaches State High School,Northern Beaches,Secondary School,,,,,-1071607683,66
+QLD,1243,Northern Peninsula Area State College,Northern Peninsula,Combined School,,,,,-1071607683,66
+QLD,1957,Northview State School,Northview,Primary School,,,,,-1071607683,66
+QLD,3084,Nursery Road State Special School,Nursery Road,Special School,,,,,-1071607683,66
+QLD,0331,Oakleigh State School,Oakleigh,Primary School,,,,,-1071607683,66
+QLD,0620,Oakwood State School,Oakwood,Primary School,,,,,-1071607683,66
+QLD,6136,Ormeau Woods State High School,Ormeau Woods,Secondary School,,,,,-1071607683,66
+QLD,2129,Palm Beach-Currumbin State High School,Palm Beach-Currumbin,Secondary School,,,,,-1071607683,66
+QLD,5700,Park Lake State School,Park Lake,Primary School,,,,,-1071607683,66
+QLD,1467,Parke State School,Parke,Primary School,,,,,-1071607683,66
+QLD,0639,Parramatta State School,Parramatta,Primary School,,,,,-1071607683,66
+QLD,1864,Patricks Road State School,Patricks Road,Primary School,,,,,-1071607683,66
+QLD,0286,Payne Road State School,Payne Road,Primary School,,,,,-1071607683,66
+QLD,0080,Petrie Terrace State School,Petrie Terrace,Primary School,,,,,-1071607683,66
+QLD,3011,Pine Rivers Special School,Pine Rivers,Special School,,,,,-1071607683,66
+QLD,2102,Pine Rivers State High School,Pine Rivers,Secondary School,,,,,-1071607683,66
+QLD,1655,Prospect Creek State School,Prospect Creek,Primary School,,,,,-1071607683,66
+QLD,5685,Queensland Academy For Creative Industries,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5727,Queensland Academy For Health Sciences,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5684,Queensland Academy For Science Mathematics And Technology,Queensland,Secondary School,,,,,-1071607683,66
+QLD,1491,Rainworth State School,Rainworth,Primary School,,,,,-1071607683,66
+QLD,3033,Redland District Special School,Redland,Special School,,,,,-1071607683,66
+QLD,0721,Richlands East State School,Richlands East,Primary School,,,,,-1071607683,66
+QLD,3002,Rosella Park School,Rosella Park,Special School,,,,,-1071607683,66
+QLD,0472,Runcorn Heights State School,Runcorn Heights,Primary School,,,,,-1071607683,66
+QLD,1754,Sandy Strait State School,Sandy Strait,Primary School,,,,,-1071607683,66
+QLD,0590,Serviceton South State School,Serviceton South,Primary School,,,,,-1071607683,66
+QLD,1131,Seville Road State School,Seville Road,Primary School,,,,,-1071607683,66
+QLD,0692,Somerset Hills State School,Somerset Hills,Primary School,,,,,-1071607683,66
+QLD,1241,Southbrook Central State School,Southbrook Central,Primary School,,,,,-1071607683,66
+QLD,5147,Spinifex State College - Mount Isa Education And Training Precinct,Spinifex,Secondary School,,,,,-1071607683,66
+QLD,7131,Springfield Central State High School,Springfield Central,Secondary School,,,,,-1071607683,66
+QLD,7123,Springfield Central State School,Springfield Central,Primary School,,,,,-1071607683,66
+QLD,1869,Springwood Central State School,Springwood Central,Primary School,,,,,-1071607683,66
+QLD,0358,Springwood Road State School,Springwood Road,Primary School,,,,,-1071607683,66
+QLD,1425,St Bernard State School,St Bernard,Primary School,,,,,-1071607683,66
+QLD,0933,Stonehenge State School,Stonehenge,Primary School,,,,,-1071607683,66
+QLD,1910,Strathpine West State School,Strathpine West,Primary School,,,,,-1071607683,66
+QLD,0622,Sunbury State School,Sunbury,Primary School,,,,,-1071607683,66
+QLD,1595,Swayneville State School,Swayneville,Primary School,,,,,-1071607683,66
+QLD,5726,Tagai State College,Tagai,Combined School,,,,,-1071607683,66
+QLD,0462,Talara Primary College,Talara,Primary School,,,,,-1071607683,66
+QLD,1446,Tanduringie State School,Tanduringie,Primary School,,,,,-1071607683,66
+QLD,1357,Tara Shire State College,Tara Shire,Combined School,,,,,-1071607683,66
+QLD,0106,Tent Hill Lower State School,Tent Hill,Primary School,,,,,-1071607683,66
+QLD,1195,The Hall State School,The Hall,Primary School,,,,,-1071607683,66
+QLD,0287,The Willows State School,The Willows,Primary School,,,,,-1071607683,66
+QLD,2172,Thuringowa State High School,Thuringowa,Secondary School,,,,,-1071607683,66
+QLD,0577,Tin Can Bay State School,Tin Can,Combined School,,,,,-1071607683,66
+QLD,0110,Toowoomba North State School,Toowoomba North,Primary School,,,,,-1071607683,66
+QLD,0113,Townsville Central State School,Townsville Central,Primary School,,,,,-1071607683,66
+QLD,0303,Townsville South State School,Townsville South,Primary School,,,,,-1071607683,66
+QLD,0498,Townsville West State School,Townsville West,Primary School,,,,,-1071607683,66
+QLD,0420,Tresswell State School,Tresswell,Primary School,,,,,-1071607683,66
+QLD,2057,Trinity Bay State High School,Trinity Bay,Secondary School,,,,,-1071607683,66
+QLD,2159,Tropical North Learning Academy - Smithfield State High School,Tropical North,Secondary School,,,,,-1071607683,66
+QLD,1893,Tropical North Learning Academy - Trinity Beach State School,Tropical North,Primary School,,,,,-1071607683,66
+QLD,2188,Tullawong State High School,Tullawong,Secondary School,,,,,-1071607683,66
+QLD,1994,Tullawong State School,Tullawong,Primary School,,,,,-1071607683,66
+QLD,1877,Undurba State School,Undurba,Primary School,,,,,-1071607683,66
+QLD,0128,Upper Mount Gravatt State School,Upper Mount,Primary School,,,,,-1071607683,66
+QLD,1755,Urandangi State School,Urandangi,Primary School,,,,,-1071607683,66
+QLD,1536,Urangan Point State School,Urangan Point,Primary School,,,,,-1071607683,66
+QLD,1759,Varsity College,Varsity,Combined School,,,,,-1071607683,66
+QLD,1855,Victoria Park State School,Victoria Park,Primary School,,,,,-1071607683,66
+QLD,1936,Vienna Woods State School,Vienna Woods,Primary School,,,,,-1071607683,66
+QLD,1971,Waraburra State School,Waraburra,Primary School,,,,,-1071607683,66
+QLD,1885,Warrigal Road State School,Warrigal Road,Primary School,,,,,-1071607683,66
+QLD,1159,Wartburg State School,Wartburg,Primary School,,,,,-1071607683,66
+QLD,0116,Warwick Central State School,Warwick Central,Primary School,,,,,-1071607683,66
+QLD,0225,Warwick East State School,Warwick East,Primary School,,,,,-1071607683,66
+QLD,1152,Warwick West State School,Warwick West,Primary School,,,,,-1071607683,66
+QLD,0584,Watson Road State School,Watson Road,Primary School,,,,,-1071607683,66
+QLD,2048,Wavell State High School,Wavell,Secondary School,,,,,-1071607683,66
+QLD,0395,Weir State School,Weir,Primary School,,,,,-1071607683,66
+QLD,5399,Western Cape College,Western Cape,Combined School,,,,,-1071607683,66
+QLD,3014,Western Suburbs State Special School,Western Suburbs,Special School,,,,,-1071607683,66
+QLD,2410,Whites Hill State College,Whites Hill,Combined School,,,,,-1071607683,66
+QLD,1972,William Duncan State School,William Duncan,Primary School,,,,,-1071607683,66
+QLD,2186,William Ross State High School,William Ross,Secondary School,,,,,-1071607683,66
+QLD,2189,Windaroo Valley State High School,Windaroo Valley,Secondary School,,,,,-1071607683,66
+QLD,0416,Wondall Heights State School,Wondall Heights,Primary School,,,,,-1071607683,66
+QLD,1614,Wonga Beach State School,Wonga Beach,Primary School,,,,,-1071607683,66
+QLD,0456,Woodcrest State College,Woodcrest,Combined School,,,,,-1071607683,66
+QLD,7121,Woodlinks State School,Woodlinks,Primary School,,,,,-1071607683,66
+QLD,0647,Woodridge North State School,Woodridge North,Primary School,,,,,-1071607683,66
+QLD,1746,Yarrilee State School,Yarrilee,Primary School,,,,,-1071607683,66
+QLD,1954,Yugumbir State School,Yugumbir,Primary School,,,,,-1071607683,66
+QLD,1892,Albany Hills State School,Albany Hills,Primary School,,,,,-1071607683,66
+QLD,0038,Albert State School,Albert,Primary School,,,,,-1071607683,66
+QLD,2017,Aldridge State High School,Aldridge,Secondary School,,,,,-1071607683,66
+QLD,1963,Alexandra Bay State School,Alexandra Bay,Primary School,,,,,-1071607683,66
+QLD,0813,Arcadia Valley State School,Arcadia Valley,Primary School,,,,,-1071607683,66
+QLD,1004,Aspley East State School,Aspley East,Primary School,,,,,-1071607683,66
+QLD,7120,Augusta State School,Augusta,Primary School,,,,,-1071607683,66
+QLD,2078,Aviation High,Aviation High,Secondary School,,,,,-1071607683,66
+QLD,1689,Balaclava State School,Balaclava,Primary School,,,,,-1071607683,66
+QLD,0777,Barkly Highway State School,Barkly Highway,Primary School,,,,,-1071607683,66
+QLD,3056,Barrett Adolescent Centre Special School,Barrett,Special School,,,,,-1071607683,66
+QLD,1798,Bay View State School,Bay View,Primary School,,,,,-1071607683,66
+QLD,1925,Bellevue Park State School,Bellevue Park,Primary School,,,,,-1071607683,66
+QLD,1867,Berrinba East State School,Berrinba East,Primary School,,,,,-1071607683,66
+QLD,1546,Berserker Street State School,Berserker Street,Primary School,,,,,-1071607683,66
+QLD,1397,Binjour Plateau State School,Binjour Plateau,Primary School,,,,,-1071607683,66
+QLD,1915,Birkdale South State School,Birkdale South,Primary School,,,,,-1071607683,66
+QLD,1891,Blackwater North State School,Blackwater North,Primary School,,,,,-1071607683,66
+QLD,1565,Blair State School,Blair,Primary School,,,,,-1071607683,66
+QLD,1173,Bloomfield River State School,Bloomfield River,Primary School,,,,,-1071607683,66
+QLD,1299,Bohlevale State School,Bohlevale,Primary School,,,,,-1071607683,66
+QLD,1542,Booyal Central State School,Booyal Central,Primary School,,,,,-1071607683,66
+QLD,6134,Bounty Boulevard State School,Bounty Boulevard,Primary School,,,,,-1071607683,66
+QLD,1066,Branyan Road State School,Branyan Road,Primary School,,,,,-1071607683,66
+QLD,7573,Brightwater State School,Brightwater,Primary School,,,,,-1071607683,66
+QLD,2104,Brisbane Bayside State College,Brisbane Bayside,Secondary School,,,,,-1071607683,66
+QLD,0207,Brisbane Central State School,Brisbane Central,Primary School,,,,,-1071607683,66
+QLD,0223,Buderim Mountain State School,Buderim Mountain,Primary School,,,,,-1071607683,66
+QLD,0853,Bunker'S Hill State School,Bunker'S Hill,Primary School,,,,,-1071607683,66
+QLD,3003,Burdekin School,Burdekin,Special School,,,,,-1071607683,66
+QLD,2089,Burnett State College,Burnett,Secondary School,,,,,-1071607683,66
+QLD,5553,Burpengary Meadows State School,Burpengary Meadows,Primary School,,,,,-1071607683,66
+QLD,1129,Burra Burri State School,Burra Burri,Primary School,,,,,-1071607683,66
+QLD,1966,Burrowes State School,Burrowes,Primary School,,,,,-1071607683,66
+QLD,0379,Bwgcolman Community School,Bwgcolman,Combined School,,,,,-1071607683,66
+QLD,1047,Bymount East State School,Bymount East,Primary School,,,,,-1071607683,66
+QLD,1903,Caboolture East State School,Caboolture East,Primary School,,,,,-1071607683,66
+QLD,1522,Cairns West State School,Cairns West,Primary School,,,,,-1071607683,66
+QLD,0483,Cameron Downs State School,Cameron Downs,Primary School,,,,,-1071607683,66
+QLD,1967,Caningeraba State School,Caningeraba,Primary School,,,,,-1071607683,66
+QLD,8009,Cape York Aboriginal Australian Academy,Cape York,Primary School,,,,,-1071607683,66
+QLD,3612,Capricornia (Emerald Campus) School Of Distance Education,Capricornia,Combined School,,,,,-1071607683,66
+QLD,2025,Cavendish Road State High School,Cavendish Road,Secondary School,,,,,-1071607683,66
+QLD,1668,Centenary State High School,Centenary,Secondary School,,,,,-1071607683,66
+QLD,2282,Chancellor State College,Chancellor,Combined School,,,,,-1071607683,66
+QLD,1924,Chatswood Hills State School,Chatswood Hills,Primary School,,,,,-1071607683,66
+QLD,3066,Claremont Special School,Claremont,Special School,,,,,-1071607683,66
+QLD,3087,Clifford Park Special School,Clifford Park,Special School,,,,,-1071607683,66
+QLD,2345,Clover Hill State School,Clover Hill,Primary School,,,,,-1071607683,66
+QLD,0173,Comet State School,Comet,Primary School,,,,,-1071607683,66
+QLD,1927,Coolnwynpin State School,Coolnwynpin,Primary School,,,,,-1071607683,66
+QLD,2165,Coolum State High School,Coolum,Secondary School,,,,,-1071607683,66
+QLD,1571,Coolum State School,Coolum,Primary School,,,,,-1071607683,66
+QLD,7122,Coomera Rivers State School,Coomera Rivers,Primary School,,,,,-1071607683,66
+QLD,5730,Coomera Springs State School,Coomera Springs,Primary School,,,,,-1071607683,66
+QLD,2023,Craigslea State High School,Craigslea,Secondary School,,,,,-1071607683,66
+QLD,0060,Craigslea State School,Craigslea,Primary School,,,,,-1071607683,66
+QLD,0762,Crescent Lagoon State School,Crescent Lagoon,Primary School,,,,,-1071607683,66
+QLD,0293,Crow'S Nest State School,Crow'S Nest,Combined School,,,,,-1071607683,66
+QLD,0671,Dalby South State School,Dalby South,Primary School,,,,,-1071607683,66
+QLD,3025,Darling Point Special School,Darling Point,Special School,,,,,-1071607683,66
+QLD,0392,Denison State School,Denison,Primary School,,,,,-1071607683,66
+QLD,0726,Eagle Junction State School,Eagle,Primary School,,,,,-1071607683,66
+QLD,1876,Eagleby South State School,Eagleby South,Primary School,,,,,-1071607683,66
+QLD,5180,Earnshaw State College,Earnshaw,Combined School,,,,,-1071607683,66
+QLD,0908,East Ayr State School,East Ayr,Primary School,,,,,-1071607683,66
+QLD,0034,Eight Mile Plains State School,Eight Mile,Primary School,,,,,-1071607683,66
+QLD,0545,Eimeo Road State School,Eimeo Road,Primary School,,,,,-1071607683,66
+QLD,1904,Emerald North State School,Emerald North,Primary School,,,,,-1071607683,66
+QLD,1751,Fairview Heights State School,Fairview Heights,Primary School,,,,,-1071607683,66
+QLD,1205,Federal State School,Federal,Primary School,,,,,-1071607683,66
+QLD,9969,Fernbrooke State School,Fernbrooke,Primary School,,,,,-1071607683,66
+QLD,0036,Fig Tree Pocket State School,Fig Tree,Primary School,,,,,-1071607683,66
+QLD,1883,Fitzgerald State School,Fitzgerald,Primary School,,,,,-1071607683,66
+QLD,2323,Flagstone State Community College,Flagstone,Secondary School,,,,,-1071607683,66
+QLD,0471,Flagstone State School,Flagstone,Primary School,,,,,-1071607683,66
+QLD,0845,Flying Fish Point State School,Flying Fish,Primary School,,,,,-1071607683,66
+QLD,0084,Gabbinbar State School,Gabbinbar,Primary School,,,,,-1071607683,66
+QLD,0044,Gladstone Central State School,Gladstone Central,Primary School,,,,,-1071607683,66
+QLD,0740,Gladstone West State School,Gladstone West,Primary School,,,,,-1071607683,66
+QLD,1242,Glass House Mountains State School,Glass,Primary School,,,,,-1071607683,66
+QLD,1592,Glenala State High School,Glenala,Secondary School,,,,,-1071607683,66
+QLD,2028,Glenmore State High School,Glenmore,Secondary School,,,,,-1071607683,66
+QLD,0574,Glenmore State School,Glenmore,Primary School,,,,,-1071607683,66
+QLD,0770,Glennie Heights State School,Glennie Heights,Primary School,,,,,-1071607683,66
+QLD,0297,Gowrie State School,Gowrie,Primary School,,,,,-1071607683,66
+QLD,1674,Grand Avenue State School,Grand Avenue,Primary School,,,,,-1071607683,66
+QLD,1136,Grovely State School,Grovely,Primary School,,,,,-1071607683,66
+QLD,0049,Gympie Central State School,Gympie Central,Primary School,,,,,-1071607683,66
+QLD,0482,Gympie East State School,Gympie East,Primary School,,,,,-1071607683,66
+QLD,1221,Gympie South State School,Gympie South,Primary School,,,,,-1071607683,66
+QLD,0560,Gympie West State School,Gympie West,Primary School,,,,,-1071607683,66
+QLD,0538,Hambledon State School,Hambledon,Primary School,,,,,-1071607683,66
+QLD,0359,Harris Fields State School,Harris Fields,Primary School,,,,,-1071607683,66
+QLD,1858,Hercules Road State School,Hercules Road,Primary School,,,,,-1071607683,66
+QLD,6135,Highland Reserve State School,Highland Reserve,Primary School,,,,,-1071607683,66
+QLD,1887,Hilder Road State School,Hilder Road,Primary School,,,,,-1071607683,66
+QLD,1986,Hilliard State School,Hilliard,Primary School,,,,,-1071607683,66
+QLD,0241,Homestead State School,Homestead,Primary School,,,,,-1071607683,66
+QLD,0164,Humpybong State School,Humpybong,Primary School,,,,,-1071607683,66
+QLD,0661,Ingleside State School,Ingleside,Primary School,,,,,-1071607683,66
+QLD,1660,Innisfail East State School,Innisfail East,Primary School,,,,,-1071607683,66
+QLD,0059,Ipswich Central State School,Ipswich Central,Primary School,,,,,-1071607683,66
+QLD,0575,Ipswich East State School,Ipswich East,Primary School,,,,,-1071607683,66
+QLD,0061,Ipswich North State School,Ipswich North,Primary School,,,,,-1071607683,66
+QLD,3015,Ipswich West Special School,Ipswich West,Special School,,,,,-1071607683,66
+QLD,0366,Ipswich West State School,Ipswich West,Primary School,,,,,-1071607683,66
+QLD,0108,Ironside State School,Ironside,Primary School,,,,,-1071607683,66
+QLD,1721,Isabella State School,Isabella,Primary School,,,,,-1071607683,66
+QLD,2063,Isis District State High School,Isis,Secondary School,,,,,-1071607683,66
+QLD,0455,Ithaca Creek State School,Ithaca Creek,Primary School,,,,,-1071607683,66
+QLD,2137,James Nash State High School,James Nash,Secondary School,,,,,-1071607683,66
+QLD,0180,Jinibara State School,Jinibara,Primary School,,,,,-1071607683,66
+QLD,0514,Junction Park State School,Junction Park,Primary School,,,,,-1071607683,66
+QLD,1494,Kalamia State School,Kalamia,Primary School,,,,,-1071607683,66
+QLD,5653,Kawana Waters State College,Kawana Waters,Combined School,,,,,-1071607683,66
+QLD,2046,Keebra Park State High School,Keebra Park,Secondary School,,,,,-1071607683,66
+QLD,1143,Kenmore South State School,Kenmore South,Primary School,,,,,-1071607683,66
+QLD,1707,Kia-Ora State School,Kia-Ora,Primary School,,,,,-1071607683,66
+QLD,1937,Kimberley Park State School,Kimberley Park,Primary School,,,,,-1071607683,66
+QLD,0279,Kolan South State School,Kolan South,Primary School,,,,,-1071607683,66
+QLD,1878,Kruger State School,Kruger,Primary School,,,,,-1071607683,66
+QLD,3102,Lady Cilento Children'S Hospital School,Lady Cilento,Special School,,,,,-1071607683,66
+QLD,1119,Lochington State School,Lochington,Primary School,,,,,-1071607683,66
+QLD,3001,Logan City Special School,Logan City,Special School,,,,,-1071607683,66
+QLD,0383,Ma Ma Creek State School,Ma Ma,Primary School,,,,,-1071607683,66
+QLD,2161,Mabel Park State High School,Mabel Park,Secondary School,,,,,-1071607683,66
+QLD,0356,Mabel Park State School,Mabel Park,Primary School,,,,,-1071607683,66
+QLD,0071,Mackay Central State School,Mackay Central,Primary School,,,,,-1071607683,66
+QLD,7873,Mackay Northern Beaches State High School,Mackay Northern,Secondary School,,,,,-1071607683,66
+QLD,1214,Maidavale State School,Maidavale,Primary School,,,,,-1071607683,66
+QLD,0708,Marshall Road State School,Marshall Road,Primary School,,,,,-1071607683,66
+QLD,0465,Mary Valley State College,Mary Valley,Combined School,,,,,-1071607683,66
+QLD,0072,Maryborough Central State School,Maryborough Central,Primary School,,,,,-1071607683,66
+QLD,1090,Mayfield State School,Mayfield,Primary School,,,,,-1071607683,66
+QLD,1400,Mcdonnell Creek State School,Mcdonnell Creek,Primary School,,,,,-1071607683,66
+QLD,1733,Meridan State College,Meridan,Combined School,,,,,-1071607683,66
+QLD,2024,Milpera State High School,Milpera,Secondary School,,,,,-1071607683,66
+QLD,0265,Minimbah State School,Minimbah,Primary School,,,,,-1071607683,66
+QLD,1382,Mirriwinni State School,Mirriwinni,Primary School,,,,,-1071607683,66
+QLD,1919,Mistake Creek State School,Mistake Creek,Primary School,,,,,-1071607683,66
+QLD,1739,Moore Park State School,Moore Park,Primary School,,,,,-1071607683,66
+QLD,1908,Moranbah East State School,Moranbah East,Primary School,,,,,-1071607683,66
+QLD,1985,Morayfield East State School,Morayfield East,Primary School,,,,,-1071607683,66
+QLD,1753,Moreton Downs State School,Moreton Downs,Primary School,,,,,-1071607683,66
+QLD,1906,Mount Warren Park State School,Mount Warren,Primary School,,,,,-1071607683,66
+QLD,0159,Mudgeeraba Creek State School,Mudgeeraba Creek,Primary School,,,,,-1071607683,66
+QLD,0076,Murphy'S Creek State School,Murphy'S Creek,Primary School,,,,,-1071607683,66
+QLD,1030,Murray River Upper State School,Murray River,Primary School,,,,,-1071607683,66
+QLD,1177,Murray'S Bridge State School,Murray'S Bridge,Primary School,,,,,-1071607683,66
+QLD,1678,Musgrave Hill State School,Musgrave Hill,Primary School,,,,,-1071607683,66
+QLD,0444,Narangba Valley State High School,Narangba Valley,Secondary School,,,,,-1071607683,66
+QLD,1725,Narangba Valley State School,Narangba Valley,Primary School,,,,,-1071607683,66
+QLD,3140,Narbethong State Special School,Narbethong,Special School,,,,,-1071607683,66
+QLD,0479,Nashville State School,Nashville,Primary School,,,,,-1071607683,66
+QLD,2088,Noosa District State High School,Noosa,Secondary School,,,,,-1071607683,66
+QLD,1741,Norfolk Village State School,Norfolk Village,Primary School,,,,,-1071607683,66
+QLD,1863,Norris Road State School,Norris Road,Primary School,,,,,-1071607683,66
+QLD,0211,Northern Beaches State High School,Northern Beaches,Secondary School,,,,,-1071607683,66
+QLD,1243,Northern Peninsula Area State College,Northern Peninsula,Combined School,,,,,-1071607683,66
+QLD,1957,Northview State School,Northview,Primary School,,,,,-1071607683,66
+QLD,3084,Nursery Road State Special School,Nursery Road,Special School,,,,,-1071607683,66
+QLD,0331,Oakleigh State School,Oakleigh,Primary School,,,,,-1071607683,66
+QLD,0620,Oakwood State School,Oakwood,Primary School,,,,,-1071607683,66
+QLD,6136,Ormeau Woods State High School,Ormeau Woods,Secondary School,,,,,-1071607683,66
+QLD,2129,Palm Beach-Currumbin State High School,Palm Beach-Currumbin,Secondary School,,,,,-1071607683,66
+QLD,5700,Park Lake State School,Park Lake,Primary School,,,,,-1071607683,66
+QLD,1467,Parke State School,Parke,Primary School,,,,,-1071607683,66
+QLD,0639,Parramatta State School,Parramatta,Primary School,,,,,-1071607683,66
+QLD,1864,Patricks Road State School,Patricks Road,Primary School,,,,,-1071607683,66
+QLD,0286,Payne Road State School,Payne Road,Primary School,,,,,-1071607683,66
+QLD,0080,Petrie Terrace State School,Petrie Terrace,Primary School,,,,,-1071607683,66
+QLD,3011,Pine Rivers Special School,Pine Rivers,Special School,,,,,-1071607683,66
+QLD,2102,Pine Rivers State High School,Pine Rivers,Secondary School,,,,,-1071607683,66
+QLD,1655,Prospect Creek State School,Prospect Creek,Primary School,,,,,-1071607683,66
+QLD,9324,Pumicestone State School,Pumicestone,Primary School,,,,,-1071607683,66
+QLD,5685,Queensland Academy For Creative Industries,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5727,Queensland Academy For Health Sciences,Queensland,Secondary School,,,,,-1071607683,66
+QLD,5684,Queensland Academy For Science Mathematics And Technology,Queensland,Secondary School,,,,,-1071607683,66
+QLD,1491,Rainworth State School,Rainworth,Primary School,,,,,-1071607683,66
+QLD,3033,Redland District Special School,Redland,Special School,,,,,-1071607683,66
+QLD,0721,Richlands East State School,Richlands East,Primary School,,,,,-1071607683,66
+QLD,3002,Rosella Park School,Rosella Park,Special School,,,,,-1071607683,66
+QLD,0472,Runcorn Heights State School,Runcorn Heights,Primary School,,,,,-1071607683,66
+QLD,1754,Sandy Strait State School,Sandy Strait,Primary School,,,,,-1071607683,66
+QLD,0590,Serviceton South State School,Serviceton South,Primary School,,,,,-1071607683,66
+QLD,1131,Seville Road State School,Seville Road,Primary School,,,,,-1071607683,66
+QLD,0692,Somerset Hills State School,Somerset Hills,Primary School,,,,,-1071607683,66
+QLD,1241,Southbrook Central State School,Southbrook Central,Primary School,,,,,-1071607683,66
+QLD,5147,Spinifex State College - Mount Isa Education And Training Precinct,Spinifex,Secondary School,,,,,-1071607683,66
+QLD,7131,Springfield Central State High School,Springfield Central,Secondary School,,,,,-1071607683,66
+QLD,7123,Springfield Central State School,Springfield Central,Primary School,,,,,-1071607683,66
+QLD,1869,Springwood Central State School,Springwood Central,Primary School,,,,,-1071607683,66
+QLD,0358,Springwood Road State School,Springwood Road,Primary School,,,,,-1071607683,66
+QLD,1425,St Bernard State School,St Bernard,Primary School,,,,,-1071607683,66
+QLD,0933,Stonehenge State School,Stonehenge,Primary School,,,,,-1071607683,66
+QLD,1910,Strathpine West State School,Strathpine West,Primary School,,,,,-1071607683,66
+QLD,0622,Sunbury State School,Sunbury,Primary School,,,,,-1071607683,66
+QLD,1595,Swayneville State School,Swayneville,Primary School,,,,,-1071607683,66
+QLD,5726,Tagai State College,Tagai,Combined School,,,,,-1071607683,66
+QLD,0462,Talara Primary College,Talara,Primary School,,,,,-1071607683,66
+QLD,1446,Tanduringie State School,Tanduringie,Primary School,,,,,-1071607683,66
+QLD,1357,Tara Shire State College,Tara Shire,Combined School,,,,,-1071607683,66
+QLD,0106,Tent Hill Lower State School,Tent Hill,Primary School,,,,,-1071607683,66
+QLD,1195,The Hall State School,The Hall,Primary School,,,,,-1071607683,66
+QLD,0287,The Willows State School,The Willows,Primary School,,,,,-1071607683,66
+QLD,2172,Thuringowa State High School,Thuringowa,Secondary School,,,,,-1071607683,66
+QLD,0577,Tin Can Bay State School,Tin Can,Combined School,,,,,-1071607683,66
+QLD,0110,Toowoomba North State School,Toowoomba North,Primary School,,,,,-1071607683,66
+QLD,0113,Townsville Central State School,Townsville Central,Primary School,,,,,-1071607683,66
+QLD,0303,Townsville South State School,Townsville South,Primary School,,,,,-1071607683,66
+QLD,0498,Townsville West State School,Townsville West,Primary School,,,,,-1071607683,66
+QLD,0420,Tresswell State School,Tresswell,Primary School,,,,,-1071607683,66
+QLD,2057,Trinity Bay State High School,Trinity Bay,Secondary School,,,,,-1071607683,66
+QLD,2159,Tropical North Learning Academy - Smithfield State High School,Tropical North,Secondary School,,,,,-1071607683,66
+QLD,1893,Tropical North Learning Academy - Trinity Beach State School,Tropical North,Primary School,,,,,-1071607683,66
+QLD,2188,Tullawong State High School,Tullawong,Secondary School,,,,,-1071607683,66
+QLD,1994,Tullawong State School,Tullawong,Primary School,,,,,-1071607683,66
+QLD,1877,Undurba State School,Undurba,Primary School,,,,,-1071607683,66
+QLD,0128,Upper Mount Gravatt State School,Upper Mount,Primary School,,,,,-1071607683,66
+QLD,1755,Urandangi State School,Urandangi,Primary School,,,,,-1071607683,66
+QLD,1536,Urangan Point State School,Urangan Point,Primary School,,,,,-1071607683,66
+QLD,1759,Varsity College,Varsity,Combined School,,,,,-1071607683,66
+QLD,1855,Victoria Park State School,Victoria Park,Primary School,,,,,-1071607683,66
+QLD,1936,Vienna Woods State School,Vienna Woods,Primary School,,,,,-1071607683,66
+QLD,1971,Waraburra State School,Waraburra,Primary School,,,,,-1071607683,66
+QLD,1885,Warrigal Road State School,Warrigal Road,Primary School,,,,,-1071607683,66
+QLD,1159,Wartburg State School,Wartburg,Primary School,,,,,-1071607683,66
+QLD,0116,Warwick Central State School,Warwick Central,Primary School,,,,,-1071607683,66
+QLD,0225,Warwick East State School,Warwick East,Primary School,,,,,-1071607683,66
+QLD,1152,Warwick West State School,Warwick West,Primary School,,,,,-1071607683,66
+QLD,0584,Watson Road State School,Watson Road,Primary School,,,,,-1071607683,66
+QLD,2048,Wavell State High School,Wavell,Secondary School,,,,,-1071607683,66
+QLD,0395,Weir State School,Weir,Primary School,,,,,-1071607683,66
+QLD,5399,Western Cape College,Western Cape,Combined School,,,,,-1071607683,66
+QLD,3014,Western Suburbs State Special School,Western Suburbs,Special School,,,,,-1071607683,66
+QLD,2410,Whites Hill State College,Whites Hill,Combined School,,,,,-1071607683,66
+QLD,1972,William Duncan State School,William Duncan,Primary School,,,,,-1071607683,66
+QLD,2186,William Ross State High School,William Ross,Secondary School,,,,,-1071607683,66
+QLD,2189,Windaroo Valley State High School,Windaroo Valley,Secondary School,,,,,-1071607683,66
+QLD,0416,Wondall Heights State School,Wondall Heights,Primary School,,,,,-1071607683,66
+QLD,1614,Wonga Beach State School,Wonga Beach,Primary School,,,,,-1071607683,66
+QLD,0456,Woodcrest State College,Woodcrest,Combined School,,,,,-1071607683,66
+QLD,7121,Woodlinks State School,Woodlinks,Primary School,,,,,-1071607683,66
+QLD,0647,Woodridge North State School,Woodridge North,Primary School,,,,,-1071607683,66
+QLD,1746,Yarrilee State School,Yarrilee,Primary School,,,,,-1071607683,66
+QLD,1954,Yugumbir State School,Yugumbir,Primary School,,,,,-1071607683,66
+ACT,DP,Duffy Preschool,Duffy,Preschool,,,,,-1071607683,66
+ACT,JBP,Jervis Bay Preschool,Act 2540,Preschool,,,,,-1071607683,66
+ACT,TP-CCPS,Tharwa Preschool - Charles Conder Primary School,Act 2620,Preschool,,,,,-1071607683,66
+ACT,CWS,Charles Weston School,Coombs,Primary School,-35.322603000000001,149.04284799999999,,,-1071607683,68
+ACT,JBP,Jervis Bay Primary,Act 2540,Primary School,-35.135012000000003,150.70361399999999,,,-1071607683,68
+ACT,TCS2903,Trinity Christian School,Wanniassa,Independent Christian,,,2903,,-1071607683,66
+NSW,4658,Lindfield Learning Village,Lindfield,Central/Community School,,,2070,,-1071607683,66
