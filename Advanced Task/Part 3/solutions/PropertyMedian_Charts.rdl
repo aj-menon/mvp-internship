@@ -179,11 +179,6 @@ ORDER BY Suburb ASC;</CommandText>
                       <GroupExpression>=Fields!Columns.Value</GroupExpression>
                     </GroupExpressions>
                   </Group>
-                  <SortExpressions>
-                    <SortExpression>
-                      <Value>=Fields!Columns.Value</Value>
-                    </SortExpression>
-                  </SortExpressions>
                   <Label>=Switch(Fields!Columns.Value="MedianValue","Median Price - "&amp;Sum(Fields!CalendarYear.Value, "PropertyMedian"), 
 Fields!Columns.Value="ValueGrowth_1y","Growth in 1Y",
 Fields!Columns.Value="ValueGrowth_5y","Growth in 5Y",
@@ -210,9 +205,16 @@ Fields!Columns.Value="ValueGrowth_10y","Growth in 10Y"
                       <ChartDataLabel>
                         <Style />
                       </ChartDataLabel>
+                      <ToolTip>=Sum(Fields!Value.Value)</ToolTip>
                       <Style />
                       <ChartMarker>
-                        <Style />
+                        <Type>Circle</Type>
+                        <Size>1.75pt</Size>
+                        <Style>
+                          <Border>
+                            <Width>0.5pt</Width>
+                          </Border>
+                        </Style>
                       </ChartMarker>
                       <DataElementOutput>Output</DataElementOutput>
                     </ChartDataPoint>
@@ -507,7 +509,7 @@ Fields!Columns.Value="ValueGrowth_10y","Growth in 10Y"
               </Style>
             </ChartNoDataMessage>
             <DataSetName>UnpivotPropertyMedianPrices</DataSetName>
-            <Top>97.64889mm</Top>
+            <Top>97.29611mm</Top>
             <Left>53.67865mm</Left>
             <Height>62.48834mm</Height>
             <Width>168.14802mm</Width>
@@ -939,7 +941,7 @@ Fields!Columns.Value="ValueGrowth_10y","Growth in 10Y"
             <Top>161.54834mm</Top>
             <Left>61.54833mm</Left>
             <Height>18.77334mm</Height>
-            <Width>144.47335mm</Width>
+            <Width>144.47333mm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -956,11 +958,6 @@ Fields!Columns.Value="ValueGrowth_10y","Growth in 10Y"
                       <GroupExpression>=Fields!Columns.Value</GroupExpression>
                     </GroupExpressions>
                   </Group>
-                  <SortExpressions>
-                    <SortExpression>
-                      <Value>=Fields!Columns.Value</Value>
-                    </SortExpression>
-                  </SortExpressions>
                   <Label>=Switch(Fields!Columns.Value="MedianValue","Median Price - "&amp;Sum(Fields!CalendarYear.Value, "PropertyMedian"), 
 Fields!Columns.Value="ValueGrowth_1y","Growth in 1Y",
 Fields!Columns.Value="ValueGrowth_5y","Growth in 5Y",
