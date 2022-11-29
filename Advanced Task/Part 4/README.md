@@ -1,4 +1,4 @@
-## Advanced Task Part 4 - Build Power BI Dashboard from existing **_Keys_** Data warehouse
+## Advanced Task Part 4 - Build Power BI Dashboard from existing **_Keys_** data warehouse
 
 ### Task
 
